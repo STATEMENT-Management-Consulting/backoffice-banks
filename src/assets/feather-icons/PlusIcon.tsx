@@ -1,0 +1,22 @@
+export const PlusIcon = (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="25"
+    viewBox="0 0 24 25"
+    fill="none"
+  >
+    <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M12 4.5C12.5523 4.5 13 4.94772 13 5.5V19.5C13 20.0523 12.5523 20.5 12 20.5C11.4477 20.5 11 20.0523 11 19.5V5.5C11 4.94772 11.4477 4.5 12 4.5Z"
+      fill="#A0AEC0"
+    />
+    <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M4 12.5C4 11.9477 4.44772 11.5 5 11.5H19C19.5523 11.5 20 11.9477 20 12.5C20 13.0523 19.5523 13.5 19 13.5H5C4.44772 13.5 4 13.0523 4 12.5Z"
+      fill="#A0AEC0"
+    />
+  </svg>
+);

@@ -1,0 +1,37 @@
+.Modal {
+  animation: slider 150ms ease-in-out;
+}
+
+@keyframes slider {
+  from {
+    transform: translateX(50%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+
+.Loading {
+  @apply bg-gray-shade2 sticky w-full -inset-x-0 top-0 h-[5px] overflow-hidden;
+}
+
+.Loading:after {
+  position: absolute;
+  content: "";
+  @apply bg-primary h-full w-7/12 absolute origin-left;
+  animation: loading 1.5s linear infinite;
+}
+
+@keyframes loading {
+  from {
+    transform: scaleX(0) translate(-100%);
+  }
+
+  50% {
+    transform: scaleX(0.5);
+  }
+
+  to {
+    transform: scaleX(1.5) translate(200%);
+  }
+}

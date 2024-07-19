@@ -1,0 +1,31 @@
+.CustomEditor * {
+  font-family: "Manrope", sans-serif;
+  line-height: 1.75;
+}
+
+.CustomEditor h1,
+.CustomEditor h2,
+.CustomEditor h3,
+.CustomEditor h4,
+.CustomEditor h5,
+.CustomEditor h6 {
+  color: theme("colors.dark.black");
+  font-weight: theme("fontWeight.semibold");
+}
+
+.CustomEditor h1 {
+  font-size: theme("fontSize.heading-3");
+}
+
+.CustomEditor h2 {
+  font-size: theme("fontSize.heading-4");
+}
+
+.CustomEditor h3 {
+  font-size: theme("fontSize.heading-5");
+}
+
+.CustomEditor h4 .CustomEditor h5,
+.CustomEditor h6 {
+  font-size: theme("fontSize.heading-6");
+}

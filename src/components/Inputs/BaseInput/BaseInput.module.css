@@ -1,0 +1,12 @@
+.BaseInput input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px theme("colors.blue.shade9") inset;
+}
+
+.BaseInput:has(input:autofill),
+.BaseInput:has(input:-webkit-autofill) {
+  @apply bg-blue-shade9;
+}
+
+.BaseInput[data-error="true"] {
+  @apply border-red-shade6;
+}

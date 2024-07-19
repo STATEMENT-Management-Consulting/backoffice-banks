@@ -1,0 +1,7 @@
+.RangeSlider::-webkit-slider-thumb {
+  cursor: grab;
+  border-radius: 8px;
+  width: 5rem !important;
+  height: 5rem !important;
+  -webkit-appearance: none;
+}

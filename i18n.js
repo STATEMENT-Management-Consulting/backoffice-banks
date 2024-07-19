@@ -1,0 +1,9 @@
+const globalNs = ["layout", "components"];
+
+module.exports = {
+  defaultLocale: "en",
+  locales: ["pt", "en", "fr"],
+  pages: {
+    "*": globalNs,
+  },
+};

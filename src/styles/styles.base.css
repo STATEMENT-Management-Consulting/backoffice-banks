@@ -1,0 +1,76 @@
+@tailwind base;
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: theme("colors.dark.black");
+    font-weight: theme("fontWeight.bold");
+  }
+
+  h1 {
+    font-size: theme("fontSize.heading-1");
+    line-height: theme("lineHeight.heading-1");
+  }
+
+  h2 {
+    font-size: theme("fontSize.heading-2");
+    line-height: theme("lineHeight.heading-2");
+  }
+
+  h3 {
+    font-size: theme("fontSize.heading-3");
+    line-height: theme("lineHeight.heading-3");
+  }
+
+  h4 {
+    font-size: theme("fontSize.heading-4");
+    line-height: theme("lineHeight.heading-4");
+  }
+
+  h5 {
+    font-size: theme("fontSize.heading-5");
+    line-height: theme("lineHeight.heading-5");
+  }
+
+  h6 {
+    font-size: theme("fontSize.heading-6");
+    line-height: theme("lineHeight.heading-6");
+  }
+
+  p {
+    color: theme("colors.text");
+    font-size: theme("fontSize.body-md");
+    line-height: theme("lineHeight.body-md");
+    font-weight: theme("fontWeight.normal");
+  }
+
+  a {
+    color: theme("colors.primary");
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  /* Hide the default number input controls */
+  /* Hide the default number input controls for various browsers */
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button,
+  input[type="number"]::-moz-inner-spin-button,
+  input[type="number"]::-moz-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+  }
+
+  /* For Firefox */
+  input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+}

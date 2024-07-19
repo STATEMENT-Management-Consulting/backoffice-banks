@@ -1,0 +1,24 @@
+@keyframes slide-from-top {
+  from {
+    position: relative;
+    top: -100px;
+  }
+  to {
+    position: sticky;
+    top: 60.31px;
+  }
+}
+
+@keyframes slide-from-left {
+  from {
+    left: -100%;
+  }
+
+  90% {
+    left: 2rem;
+  }
+
+  to {
+    left: 1rem;
+  }
+}

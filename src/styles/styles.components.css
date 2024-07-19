@@ -1,0 +1,178 @@
+@tailwind components;
+
+@layer components {
+  .button,
+  button {
+    display: flex;
+    padding: 0.69rem;
+    justify-content: center;
+    font-weight: 700;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    border-radius: 0.625rem;
+    user-select: none;
+    width: max-content;
+    outline: none !important;
+  }
+
+  .button:hover,
+  button:hover {
+    opacity: 0.7;
+    transition: all 150ms ease;
+  }
+
+  .button.button-empty,
+  button.button-empty {
+    padding: 0;
+  }
+
+  .button.button-primary,
+  button.button-primary {
+    background-color: theme("colors.primary");
+    color: theme("colors.white");
+  }
+
+  /* .button:not(.button-outline):not(.button-empty) > svg > *,
+  button:not(.button-outline):not(.button-empty) > svg > * {
+    stroke: theme("colors.white");
+  } */
+
+  .button.button-success,
+  button.button-success {
+    background-color: theme("colors.green.shade7");
+    color: theme("colors.white");
+    fill: theme("colors.white");
+  }
+
+  .button.button-error,
+  button.button-error {
+    background-color: theme("colors.red.shade6");
+    color: theme("colors.white");
+    fill: theme("colors.white");
+  }
+
+  .button.button-secondary,
+  button.button-secondary {
+    background-color: theme("colors.primary");
+    color: theme("colors.text-dark");
+    fill: theme("colors.white");
+  }
+
+  .button.button-orange,
+  button.button-orange {
+    @apply bg-orange-shade8 text-white fill-white;
+  }
+
+  .button.button-outline,
+  button.button-outline {
+    border: 1px solid theme("colors.gray.shade11");
+    border-radius: 0.5rem;
+    background-color: transparent;
+  }
+
+  .button.button-text,
+  button.button-text {
+    border: none;
+    background-color: transparent;
+  }
+
+  .button.button-outline.button-primary,
+  button.button-outline.button-primary,
+  .button-text.button-primary {
+    @apply border-primary text-primary fill-primary;
+  }
+
+  .button.button-outline.button-error,
+  button.button-outline.button-error,
+  .button-text.button-error {
+    @apply border-red-shade6 text-red-shade6;
+  }
+
+  .button.button-outline.button-orange,
+  button.button-outline.button-orange,
+  .button-text.button-orange {
+    @apply border-orange-shade8 text-orange-shade8;
+  }
+
+  .button:disabled,
+  button:disabled {
+    pointer-events: none;
+    opacity: 0.6;
+  }
+
+  .badge {
+    padding: 0.5rem 0.75rem;
+    min-width: max-content !important;
+    border-radius: 1rem;
+    font-size: 0.825rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%; /* 1rem */
+    letter-spacing: 0.0125rem;
+    background-color: theme("colors.primary");
+    color: theme("colors.white");
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    row-gap: 0.75rem;
+  }
+
+  .badge.badge-red {
+    background-color: theme("colors.red.shade5");
+    color: theme("colors.red.shade6");
+  }
+  .badge.badge-green {
+    background-color: theme("colors.green.shade5");
+    color: theme("colors.green.shade6");
+  }
+  .badge.badge-orange {
+    background-color: theme("colors.orange.shade7");
+    color: theme("colors.orange.shade6");
+  }
+  .badge.badge-neutral {
+    background-color: theme("colors.gray.shade9");
+    color: theme("colors.gray.shade7");
+  }
+
+  .card {
+    padding: theme("spacing.6");
+    border-radius: theme("borderRadius.2xl");
+    background-color: theme("colors.white");
+  }
+
+  .card-outline {
+    padding: theme("spacing.6");
+    border-radius: 1rem;
+    border: 1px solid theme("colors.gray.shade10");
+  }
+
+  .card-hover {
+    @apply hover:shadow-[0_0_0_1px_#0B89CE1f,0_1px_3px_#0B89CE2f] transition-shadow bg-white !border-gray-shade10;
+  }
+
+  .card-hover-group {
+    @apply group-hover:shadow-[0_0_0_1px_#0B89CE1f,0_1px_3px_#0B89CE2f] group-hover:transition-shadow group-hover:bg-white group-hover:!border-gray-shade10;
+  }
+
+  .card-outline.card-hover {
+    @apply hover:border-gray-shade4;
+  }
+
+  .rule,
+  .rule-horizontal {
+    background-color: theme("colors.gray.shade1");
+    width: 100%;
+    height: 0.0625rem;
+  }
+
+  .rule-vertical {
+    background-color: theme("colors.gray.shade10");
+    width: 0.0625rem;
+    height: 100%;
+  }
+
+  .skeleton {
+    @apply bg-gray-shade9 animate-pulse;
+  }
+}

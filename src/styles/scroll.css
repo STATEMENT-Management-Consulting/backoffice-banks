@@ -1,0 +1,50 @@
+* {
+  scrollbar-width: thin;
+  scrollbar-color: theme("colors.primary") transparent; /* fallback color */
+}
+
+/* WebKit (Safari, Chrome) */
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: theme("colors.primary"); /* fallback color */
+  border-radius: 5px;
+  border: 3px solid transparent;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: theme("colors.gray.shade5"); /* fallback color */
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: theme("colors.primary") transparent; /* fallback color */
+}
+
+/* Microsoft Edge and Internet Explorer */
+* {
+  -ms-overflow-style: none; /* Hides scrollbar in Edge and IE */
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: theme("colors.primary"); /* fallback color */
+  border-radius: 5px;
+  border: 3px solid transparent;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: theme("colors.gray.shade5"); /* fallback color */
+}

@@ -1,0 +1,146 @@
+@tailwind utilities;
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.stack-reverse {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.stack-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.layout-max-width {
+  width: 100%;
+  max-width: 80rem;
+  min-width: min(100%, 45rem);
+  flex-grow: 1;
+  padding: 2rem;
+}
+
+.layout-h {
+  min-height: max-content;
+  max-height: calc(100vh - (67.06px + 2 * theme("spacing.8")));
+}
+
+.layout-min-h {
+  height: calc(100vh - (67.06px + 2 * theme("spacing.5")));
+}
+
+.layout-max-h {
+  height: calc(100vh - (67.06px + 2 * theme("spacing.5")));
+  max-height: calc(100vh - (67.06px + 2 * theme("spacing.5")));
+}
+
+.blur-bg {
+  @apply bg-primary;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(8px); /* Adjust the blur value as needed */
+}
+
+.glassmorphism {
+  background: rgba(255, 255, 255, 0.19);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7.2px);
+  -webkit-backdrop-filter: blur(7.2px);
+  border: 1px solid rgba(255, 255, 255, 0.46);
+}
+
+/* Classe personalizada */
+.transparent-scroll {
+  overflow: scroll;
+}
+
+.transparent-scroll:not(:hover)::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Torna o "polegar" da barra de rolagem transparente */
+}
+
+.transparent-scroll:not(:hover)::-webkit-scrollbar-track {
+  background: transparent; /* Torna o trilho da barra de rolagem transparente */
+}
+
+/* Para Firefox */
+.transparent-scroll:not(:hover) {
+  scrollbar-width: thin; /* Define a largura da barra de rolagem como fina */
+  scrollbar-color: transparent transparent; /* Torna a barra de rolagem transparente */
+}
+
+/* Para Internet Explorer e Edge */
+.transparent-scroll:not(:hover) {
+  -ms-overflow-style: -ms-autohiding-scrollbar; /* Esconde automaticamente a barra de rolagem quando não está em uso */
+}
+
+.transparent-scroll-x {
+  overflow-x: scroll; /* Define o overflow-x como scroll */
+  overflow-y: hidden; /* Oculta o overflow-y */
+}
+
+/* Para navegadores WebKit como Chrome, Safari, etc. */
+.transparent-scroll-x:not(:hover)::-webkit-scrollbar {
+  height: 8px; /* Define a altura da barra de rolagem horizontal */
+}
+
+.transparent-scroll-x:not(:hover)::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Torna o "polegar" da barra de rolagem horizontal transparente */
+}
+
+.transparent-scroll-x:not(:hover)::-webkit-scrollbar-track {
+  background: transparent; /* Torna o trilho da barra de rolagem horizontal transparente */
+}
+
+/* Para Firefox */
+.transparent-scroll-x:not(:hover) {
+  scrollbar-width: thin; /* Define a largura da barra de rolagem como fina */
+  scrollbar-color: transparent transparent; /* Torna a barra de rolagem transparente */
+}
+
+/* Para Internet Explorer e Edge */
+.transparent-scroll-x:not(:hover) {
+  -ms-overflow-style: -ms-autohiding-scrollbar; /* Esconde automaticamente a barra de rolagem quando não está em uso */
+}
+
+.transparent-scroll-y {
+  overflow-y: scroll; /* Define o overflow-y como scroll */
+  overflow-x: hidden; /* Oculta o overflow-x */
+}
+
+/* Para navegadores WebKit como Chrome, Safari, etc. */
+.transparent-scroll-y:not(:hover)::-webkit-scrollbar {
+  width: 8px; /* Define a largura da barra de rolagem vertical */
+}
+
+.transparent-scroll-y:not(:hover)::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Torna o "polegar" da barra de rolagem vertical transparente */
+}
+
+.transparent-scroll-y:not(:hover)::-webkit-scrollbar-track {
+  background: transparent; /* Torna o trilho da barra de rolagem vertical transparente */
+}
+
+/* Para Firefox */
+.transparent-scroll-y:not(:hover) {
+  scrollbar-width: thin; /* Define a largura da barra de rolagem como fina */
+  scrollbar-color: transparent transparent; /* Torna a barra de rolagem transparente */
+}
+
+/* Para Internet Explorer e Edge */
+.transparent-scroll-y:not(:hover) {
+  -ms-overflow-style: -ms-autohiding-scrollbar; /* Esconde automaticamente a barra de rolagem quando não está em uso */
+}

@@ -1,20 +1,56 @@
-import type { Config } from "tailwindcss";
+import { fontSize, lineHeight } from "./src/styles/typography";
+import { Palette } from "./src/styles/palette.const";
+import { Config } from "tailwindcss";
 
 const config: Config = {
   content: [
-    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/components/**/*.{ts,tsx,mdx}",
+    "./src/layout/**/*.{ts,tsx,mdx}",
+    "./src/pages/**/*.{ts,tsx,mdx}",
+    "./src/views/**/*.{ts,tsx,mdx}",
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      boxShadow: {
+        custom: "0px 5px 40px 0px rgba(0, 0, 0, 0.10)",
+        default: "0px 3px 5px 0px rgba(0, 0, 0, 0.10)",
+      },
+      colors: {
+        ...Palette,
+        primary: Palette.blue.shade1,
+        "transparent-primary": "#0B89CE33",
+        bg: "#F6F6F6",
+        text: "#696974",
+        "text-secondary": Palette.gray.shade8,
+        "text-dark": Palette.dark.blue.shade1,
+        "text-light": Palette.gray.shade7,
+        border: Palette.gray.shade10,
+        black: Palette.dark.black,
+      },
+      fontSize: { ...fontSize },
+      lineHeight: { ...lineHeight },
+      screens: {
+        tablet: "640px",
+        // => @media (minWidth: 640px) { ... }
+
+        laptop: "1024px",
+        // => @media (minWidth: 1024px) { ... }
+
+        desktop: "1440px",
+        // => @media (minWidth: 1440px) { ... }
       },
     },
   },
+  safelist: [
+    "stack",
+    "stack-center",
+    "button",
+    "button-primary",
+    "badge",
+    "badge-green",
+    "card",
+    "card-outline",
+  ],
   plugins: [],
 };
 export default config;

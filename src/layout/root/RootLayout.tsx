@@ -1,12 +1,12 @@
 import { ReactNode } from "react";
 import { RootLayoutMain } from "./RootLayoutMain";
 import { RootLayoutContainer } from "./RootLayoutContainer";
-import { RooLayoutHeader } from "./RootLayoutHeader/RooLayoutHeader";
+import { RootLayoutHeader } from "./RootLayoutHeader/RootLayoutHeader";
 
 export function RootLayoutWrapper({ children }: { children: ReactNode }) {
   return (
     <RootLayoutContainer>
-      <RooLayoutHeader />
+      <RootLayoutHeader />
       <RootLayoutMain>{children}</RootLayoutMain>
     </RootLayoutContainer>
   );

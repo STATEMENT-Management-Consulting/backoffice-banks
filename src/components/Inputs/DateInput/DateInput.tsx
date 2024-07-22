@@ -12,6 +12,7 @@ interface IDateInput {
   className?: string;
   min?: Date;
   max?: Date;
+  wrapperClassName?: string;
 }
 
 export function DateInput({
@@ -23,6 +24,7 @@ export function DateInput({
   disabled,
   className,
   max,
+  wrapperClassName,
   min,
 }: IDateInput) {
   const date =
@@ -45,6 +47,7 @@ export function DateInput({
         value={date}
         onChange={handleChange}
         error={error}
+        wrapperClassName={wrapperClassName}
         disabled={disabled}
         className={className}
         min={min ? format(min, "yyyy-MM-dd") : undefined}

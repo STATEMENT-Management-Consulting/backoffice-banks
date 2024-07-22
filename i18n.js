@@ -5,5 +5,6 @@ module.exports = {
   locales: ["pt", "en", "fr"],
   pages: {
     "*": globalNs,
+    "/": ["dashboard/dashboard"],
   },
 };

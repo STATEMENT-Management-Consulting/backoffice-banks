@@ -1,3 +1,378 @@
 {
-  "home": "Pagina inicial"
+  "SeeMoreAndLessCard": {
+    "more": "Ver mais",
+    "less": "Ver Menos"
+  },
+  "EmptyDocs": {
+    "no-append": "Nenhum documento foi anexado",
+    "info": "Anexa novos documentos clicando em \"Anexar documento\"",
+    "append": "Anexar documento",
+    "unavailable": "Nenhum documento disponível"
+  },
+  "LocationInput": {
+    "job-location": "Usar a localização da vaga",
+    "company-location": "Usar a localização da empresa",
+    "pick-current-location": "Utilizar a minha localização atual",
+    "placeholder": "Localização"
+  },
+  "SkillsInput": {
+    "label": "Habilidades",
+    "placeholder": "Selecione uma habilidade"
+  },
+  "ToolsInput": {
+    "label": "Ferramentas",
+    "placeholder": "Selecione uma ferramenta"
+  },
+  "LanguageInput": {
+    "label": "Idiomas",
+    "placeholder": "Selecione o idioma"
+  },
+  "SalaryInput": {
+    "fixed-salary": "Salário fixo",
+    "range-salary": "Intervalo Salarial",
+    "not-defined": "Não definido",
+    "label": "Salário",
+    "placeholder": "Selecione o tipo Salário",
+
+    "range": {
+      "label": "Intervalo Salarial",
+      "placeholder": "32,181.15 AOA - 100,000 AOA",
+      "required": "Este campo é obrigatório",
+      "hide-salary": "Ocultar o salário"
+    }
+  },
+  "Positions-Input": {
+    "label": "Profissão",
+    "placeholder": "Selecione um cargo"
+  },
+  "RichTextEditor": {
+    "commands": {
+      "bold": "Negrito",
+      "italic": "Italico",
+      "underline": "Sublinhado",
+      "emoji": "Emoji",
+      "link": "Link",
+      "bullet-point": "Lista de tópicos",
+      "numeric.list": "Lista numerica",
+      "align-text-center": "Alinhar texto no centro"
+    }
+  },
+  "PdfUploadFileInput": {
+    "label": "Carregar ficheiro",
+    "placeholder": "Carregar ficheiro",
+    "error": "Erro ao carregar o ficheiro",
+    "remove-file": "Remover ficheiro",
+    "upload-file": "Carregar ficheiro",
+    "dropzone": "ou Arraste aqui.Máximo de 5MB",
+
+    "max-size-label": "Tamanho máximo do arquivo: {{maxSize}}. Formato de arquivo: pdf, docx, png e jpeg",
+    "errors": {
+      "is-bigger": "O ficheiro é maior que 5MB"
+    }
+  },
+  "SearchForCollaborator": {
+    "miss-banking": "Salário e IBAN em falta",
+    "miss-salary": "Salário em falta",
+    "miss-iban": "IBAN em falta",
+    "label": "Nome do colaborador",
+    "placeholder": "Digite o nome do colaborador",
+    "not-found": "Colaborador não encontrado.\nCertifique-se de que o utilizador existe  na mirantes",
+
+    "miss-banking-modal": {
+      "title": "Salário e IBAN em falta",
+      "label": "Para adição de salário e IBAN desse colaborador, será redirecionado para os Colaboradores, tem a certeza que deseja continuar?",
+      "options": {
+        "no": "Não, voltar",
+        "yes": "Sim, continuar"
+      }
+    },
+    "miss-iban-modal": {
+      "title": "IBAN em falta",
+      "label": "Tem a certeza que pretende selecionar este colaborador?",
+      "options": {
+        "no": "Não, voltar",
+        "yes": "Sim, continuar"
+      }
+    },
+    "miss-salary-modal": {
+      "title": "Salário em falta",
+      "label": "Para adição de salário desse colaborador, será redirecionado para os Colaboradores, tem a certeza que deseja continuar?",
+
+      "options": {
+        "no": "Não, voltar",
+        "yes": "Sim, continuar"
+      }
+    }
+  },
+  "PaginationFooter": {
+    "showing-elements": "Mostrando {{showing}} de {{total}}",
+    "show": "Mostrar {{number}}"
+  },
+  "SearchUsers": {
+    "placeholder": "Pesquise pelo e-mail",
+    "bot-found": "Utilizador não encontrado"
+  },
+  "Salary": {
+    "label": "Salário",
+    "placeholder": "Selecione o tipo de salário",
+    "required": "O salário é um campo obrigatório",
+    "confirm-hidden": "Por não partilhar as informações de salário não poderá usar a base de salários do mercado.",
+    "fixed": {
+      "label": "Salário fixo",
+      "placeholder": "Introduza o valor",
+      "insert-valid-salary": "Por favor, insira um valor maior ou igual ao salário mínimo.",
+      "use": "Usar"
+    },
+    "range": {
+      "label": "Intervalo Salarial",
+      "placeholder": "32,181.15 AOA - 100,000 AOA",
+      "required": "O Salário é um campo obrigatório",
+      "hide-salary": "Ocultar o salário"
+    }
+  },
+  "SearchForDepartment": {
+    "label": "Departamento",
+    "placeholder": "Pesquisar pelo departamento",
+    "not-fund": "Departamento não encontrado"
+  },
+  "Calendar": {
+    "set-date": "Definir Data"
+  },
+
+  "JobCard": {
+    "form": {
+      "error-applying": "Falha ao candidatar-se",
+      "error-notifying": "Falha ao notificar a vaga",
+      "error-saving": "Falha ao salvar a vaga",
+      "paused-job": "Vaga pausada",
+      "numberOfCandidacies": "{{number}} Candidatos",
+      "noCandidacies": "Sem Candidatos",
+      "seeCandidacy": "Ver Candidatura",
+      "notify": "Notificar",
+      "apply": "Aplicar",
+      "applying": "Aplicando",
+      "notifying": "Processando",
+      "compatibility": "Compatibilidade"
+    },
+    "Qualifications": {
+      "title": "QualificAcções",
+      "description": "Para poder aplicar à vaga de {{title}}, você precisa  saber",
+      "improve": "Melhore o seu MIRA",
+      "and": "e"
+    }
+  },
+  "SelectDateInput": {
+    "day": "Dia",
+    "month": "Mês",
+    "year": "Ano"
+  },
+  "SelectCandidaciesPageLengthButton": {
+    "show": "Mostrar"
+  },
+
+  "Labels": {
+    "view": "Ver"
+  },
+  "ComponentsInput": {},
+  "LinkPreview": {
+    "title": "titulo não encontrado",
+    "alt": "Visualização do link {{link}} "
+  },
+  "IBANInput": {
+    "invalid": "O IBAN deve ter 24 dígitos",
+    "invalid-characters": "Caracteres inválidos",
+    "invalid-iban": "O IBAN não é valido"
+  },
+  "ShareButton": {
+    "label": "Partilhar"
+  },
+  "General": {
+    "remove": "Eliminar {{name}}"
+  },
+  "Toast": {
+    "success": "Sucesso",
+    "error": "Falha",
+    "info": "Informação",
+    "warn": "Atenção"
+  },
+  "DaysInput": {
+    "WorkDays": {
+      "label": "Utilizar dias laborais",
+      "remove-work-days": "Remover dias de trabalho"
+    }
+  },
+  "SelectInput": {
+    "select": "Selecionar...",
+    "search": "Procurar...",
+    "search-placeholder": "Pesquise aqui",
+    "empty": "Sem opções",
+    "not-found": "Não encontrado",
+    "clear": "Limpar"
+  },
+  "date-input": {
+    "errors": {
+      "invalid-date": "A data inserida é inválida",
+      "february-date-invalid": "A data inserida é inválida para o mês de Fevereiro",
+      "max-invalid": "A data não pode ser superior a {{date}}",
+      "min-invalid": "A data não pode ser inferior a {{date}}"
+    }
+  },
+  "intelligent-description": {
+    "label": "Gerar descrição",
+    "toast": {
+      "disabled": "Preencha ({{fields}}), para gerar descrição",
+      "error": {
+        "title": "Ops!",
+        "label": "Ocorreu uma falha ao gerar a descrição"
+      },
+      "alert": {
+        "title": "Atenção",
+        "label": "Você precisa pelo menos do título e do cargo para gerar a descrição automática"
+      }
+    }
+  },
+  "languages": {
+    "pt": "Português",
+    "en": "Inglês",
+    "es": "Espanhol",
+    "fr": "Francês"
+  },
+  "confirm-modal": {
+    "options": {
+      "yes": "Sim",
+      "no": "Não"
+    },
+    "documents": {
+      "remove-document": {
+        "title": "Remover documento.",
+        "label": "Tem a certeza que pretende remover este documento?",
+        "toasts": {
+          "error": {
+            "title": "Ops!",
+            "label": "Ocorreu um error ao remover o documento!"
+          },
+          "success": {
+            "title": "Sucesso!",
+            "label": "Documento removido com sucesso!"
+          }
+        }
+      }
+    }
+  },
+
+  "links-modal": {
+    "title": "Adicionar Link",
+
+    "form": {
+      "title": {
+        "label": "Titulo do Link"
+      },
+      "url": {
+        "label": "Link"
+      },
+
+      "buttons": {
+        "test-link": "Testar link",
+        "cancel": "Cancelar",
+        "save": "Salvar"
+      },
+      "errors": {
+        "name-required": "Nome é obrigatório",
+        "url-required": "URL é obrigatória",
+        "invalid-url": "URL inválida"
+      }
+    }
+  },
+
+  "attachment-modal": {
+    "title": "Adicionar anexo",
+
+    "form": {
+      "title": {
+        "label": "Título"
+      },
+
+      "attachment": {
+        "label": "Anexar Arquivo"
+      },
+
+      "buttons": {
+        "cancel": "Cancelar",
+        "save": "Salvar"
+      },
+
+      "errors": {
+        "name-required": "Nome é obrigatório",
+        "attachment-required": "Anexar ficheiro é obrigatório"
+      }
+    }
+  },
+  "new": "Novo",
+
+  "SelectMultiOptions": {
+    "apply": "Aplicar"
+  },
+
+  "collaborators-input": {
+    "not-found": "Sem colaboradores disponìveis"
+  },
+  "months": {
+    "jan": "Janeiro",
+    "feb": "Fevereiro",
+    "mar": "Março",
+    "apr": "Abril",
+    "may": "Maio",
+    "jun": "Junho",
+    "jul": "Julho",
+    "aug": "Agosto",
+    "sep": "Setembro",
+    "oct": "Outubro",
+    "nov": "Novembro",
+    "dec": "Dezembro"
+  },
+  "intervalDate": {
+    "WeeklyPayroll": "Semanal",
+    "MonthlyPayroll": "Mensal",
+    "DailyPayroll": "Diário",
+    "sheet-week-values": "{{week}} semana, {{month}} {{year}}"
+  },
+  "week": {
+    "singular": "Semana",
+    "plural": "Semanas",
+    "short": "Sem"
+  },
+  "show-more": "Mostrar mais",
+  "open-payment-sheet": "Abrir folha de pagamento",
+
+  "otp-code-input": {},
+  "Buttons": {
+    "filter": "Filtrar",
+    "back": "Voltar",
+    "onClose": "Fechar",
+    "keep-on": "Continuar",
+    "download-sheet": "Baixar folha salarial"
+  },
+  "Status": {
+    "label": "Estado",
+    "Processed": "Processado",
+    "NotProcessed": "Não processado",
+    "AwaitingApproval": "Aguardando aprovação",
+    "Processing": "Processando",
+    "no-data": "Não há dados"
+  },
+  "Total": {
+    "label": "",
+    "total_values": "Valores totais: ",
+    "total_sheet": "Total folhas"
+  },
+  "Bank": {
+    "label": "Banco"
+  },
+  "descriptions": {
+    "RB": "RB -- Rendimento Bruto",
+    "SI": "SI -- Subsídios Isentos",
+    "SB": "SB - Salário Base",
+    "IRT": "IRT - Imposto Sobre Rendimento de Trabalho",
+    "PF": "PF - Parcela Fixa "
+  }
 }

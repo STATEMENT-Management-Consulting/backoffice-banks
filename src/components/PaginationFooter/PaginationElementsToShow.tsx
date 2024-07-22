@@ -43,9 +43,11 @@ export function PaginationElementsToShow({
           total: `${totalOfElements}`,
         })}
       </p>
-      <div className="w-[10rem] [&_input]:!w-[3rem]">
+      <div className="">
         <SelectInput
           options={elements}
+          wrapperClassName="max-w-[9rem]"
+          className="h-8 !rounded-lg text-body-md"
           value={`${showingElements}`}
           placeholder={componentsDictionary("PaginationFooter.show", {
             number: `${showingElements}`,

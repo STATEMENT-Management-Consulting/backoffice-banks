@@ -1,0 +1,2718 @@
+{
+  "afghanistan": {
+    "id": "Afghanistan",
+    "name": "Afghanistan",
+    "nationality": {
+      "male": "afghan",
+      "female": "afghan"
+    },
+    "currency": "APN",
+    "flag": {
+      "emoji": "🇦🇫",
+      "url": "https://flagpedia.net/data/flags/w20/af.png"
+    },
+    "phone_code": "+93"
+  },
+  "albania": {
+    "id": "Albanie",
+    "name": "Albanie",
+    "nationality": {
+      "male": "albanais",
+      "female": "albanais"
+    },
+    "currency": "TOUS",
+    "flag": {
+      "emoji": "🇦🇱",
+      "url": "https://flagpedia.net/data/flags/w20/al.png"
+    },
+    "phone_code": "+355"
+  },
+  "algeria": {
+    "id": "Algérie",
+    "name": "Algérie",
+    "nationality": {
+      "male": "algérien",
+      "female": "algérien"
+    },
+    "currency": "DZD",
+    "flag": {
+      "emoji": "🇩🇿",
+      "url": "https://flagpedia.net/data/flags/w20/dz.png"
+    },
+    "phone_code": "+213"
+  },
+  "andorra": {
+    "id": "andorre",
+    "name": "Andorre",
+    "nationality": {
+      "male": "Andorran",
+      "female": "Andorran"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇦🇩",
+      "url": "https://flagpedia.net/data/flags/w20/ad.png"
+    },
+    "phone_code": "+376"
+  },
+  "angola": {
+    "id": "Angola",
+    "name": "Angola",
+    "nationality": {
+      "male": "Angolais",
+      "female": "Angolais"
+    },
+    "currency": "AU",
+    "flag": {
+      "emoji": "🇦🇴",
+      "url": "https://flagpedia.net/data/flags/w20/ao.png"
+    },
+    "phone_code": "+244"
+  },
+  "antigua_and_barbuda": {
+    "id": "Antigua-et-Barbuda",
+    "name": "Antigua-et-Barbuda",
+    "nationality": {
+      "male": "Antiguais",
+      "female": "Antiguane"
+    },
+    "currency": "XCD",
+    "flag": {
+      "emoji": "🇦🇬",
+      "url": "https://flagpedia.net/data/flags/w20/ag.png"
+    },
+    "phone_code": "+1-268"
+  },
+  "argentina": {
+    "id": "Argentine",
+    "name": "Argentine",
+    "nationality": {
+      "male": "argentin",
+      "female": "Argentine"
+    },
+    "currency": "ARS",
+    "flag": {
+      "emoji": "🇦🇷",
+      "url": "https://flagpedia.net/data/flags/w20/ar.png"
+    },
+    "phone_code": "+54"
+  },
+  "armenia": {
+    "id": "Arménie",
+    "name": "Arménie",
+    "nationality": {
+      "male": "arménien",
+      "female": "Arménie"
+    },
+    "currency": "OH MON DIEU",
+    "flag": {
+      "emoji": "🇦🇲",
+      "url": "https://flagpedia.net/data/flags/w20/am.png"
+    },
+    "phone_code": "+374"
+  },
+  "australia": {
+    "id": "Australie",
+    "name": "Australie",
+    "nationality": {
+      "male": "australien",
+      "female": "australien"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇦🇺",
+      "url": "https://flagpedia.net/data/flags/w20/au.png"
+    },
+    "phone_code": "+61"
+  },
+  "austria": {
+    "id": "L'Autriche",
+    "name": "L'Autriche",
+    "nationality": {
+      "male": "autrichien",
+      "female": "autrichien"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇦🇹",
+      "url": "https://flagpedia.net/data/flags/w20/at.png"
+    },
+    "phone_code": "+43"
+  },
+  "azerbaijan": {
+    "id": "Azerbaïdjan",
+    "name": "Azerbaïdjan",
+    "nationality": {
+      "male": "Azéri",
+      "female": "Azéri"
+    },
+    "currency": "AZN",
+    "flag": {
+      "emoji": "🇦🇿",
+      "url": "https://flagpedia.net/data/flags/w20/az.png"
+    },
+    "phone_code": "+994"
+  },
+  "bahamas": {
+    "id": "Bahamas",
+    "name": "Bahamas",
+    "nationality": {
+      "male": "Bahaméen",
+      "female": "Bahaméen"
+    },
+    "currency": "BSD",
+    "flag": {
+      "emoji": "🇧🇸",
+      "url": "https://flagpedia.net/data/flags/w20/bs.png"
+    },
+    "phone_code": "+1-242"
+  },
+  "bahrain": {
+    "id": "Bahreïn",
+    "name": "Bahreïn",
+    "nationality": {
+      "male": "Bahreïnien",
+      "female": "Bahreïnien"
+    },
+    "currency": "BHD",
+    "flag": {
+      "emoji": "🇧🇭",
+      "url": "https://flagpedia.net/data/flags/w20/bh.png"
+    },
+    "phone_code": "+973"
+  },
+  "bangladesh": {
+    "id": "Bangladesh",
+    "name": "Bangladesh",
+    "nationality": {
+      "male": "Bangladais",
+      "female": "Bangladais"
+    },
+    "currency": "BDT",
+    "flag": {
+      "emoji": "🇧🇩",
+      "url": "https://flagpedia.net/data/flags/w20/bd.png"
+    },
+    "phone_code": "+880"
+  },
+  "barbados": {
+    "id": "Barbade",
+    "name": "Barbade",
+    "nationality": {
+      "male": "Barbadien",
+      "female": "Barbadien"
+    },
+    "currency": "BBD",
+    "flag": {
+      "emoji": "🇧🇧",
+      "url": "https://flagpedia.net/data/flags/w20/bb.png"
+    },
+    "phone_code": "+1-246"
+  },
+  "belarus": {
+    "id": "Biélorussie",
+    "name": "Biélorussie",
+    "nationality": {
+      "male": "biélorusse",
+      "female": "biélorusse"
+    },
+    "currency": "PAR",
+    "flag": {
+      "emoji": "🇧🇾",
+      "url": "https://flagpedia.net/data/flags/w20/by.png"
+    },
+    "phone_code": "+375"
+  },
+  "belgium": {
+    "id": "Belgique",
+    "name": "Belgique",
+    "nationality": {
+      "male": "Belge",
+      "female": "Belge"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇧🇪",
+      "url": "https://flagpedia.net/data/flags/w20/be.png"
+    },
+    "phone_code": "+32"
+  },
+  "belize": {
+    "id": "Bélize",
+    "name": "Bélize",
+    "nationality": {
+      "male": "Bélizien",
+      "female": "Bélizien"
+    },
+    "currency": "BZD",
+    "flag": {
+      "emoji": "🇧🇿",
+      "url": "https://flagpedia.net/data/flags/w20/bz.png"
+    },
+    "phone_code": "+501"
+  },
+  "benin": {
+    "id": "Bénin",
+    "name": "Bénin",
+    "nationality": {
+      "male": "Béninois",
+      "female": "Béninois"
+    },
+    "currency": "XOF",
+    "flag": {
+      "emoji": "🇧🇯",
+      "url": "https://flagpedia.net/data/flags/w20/bj.png"
+    },
+    "phone_code": "+229"
+  },
+  "bermuda": {
+    "id": "shorts",
+    "name": "Bermudas",
+    "nationality": {
+      "male": "Bermudien",
+      "female": "Bermudien"
+    },
+    "currency": "DMO",
+    "flag": {
+      "emoji": "🇧🇲",
+      "url": "https://flagpedia.net/data/flags/w20/bm.png"
+    },
+    "phone_code": "+1-441"
+  },
+  "bhutan": {
+    "id": "bhoutan",
+    "name": "Bhoutan",
+    "nationality": {
+      "male": "Bhoutanais",
+      "female": "Bhoutanais"
+    },
+    "currency": "BTN",
+    "flag": {
+      "emoji": "🇧🇹",
+      "url": "https://flagpedia.net/data/flags/w20/bt.png"
+    },
+    "phone_code": "+975"
+  },
+  "bolivia": {
+    "id": "Bolivie",
+    "name": "Bolivie",
+    "nationality": {
+      "male": "bolivien",
+      "female": "bolivien"
+    },
+    "currency": "BOB",
+    "flag": {
+      "emoji": "🇧🇴",
+      "url": "https://flagpedia.net/data/flags/w20/bo.png"
+    },
+    "phone_code": "+591"
+  },
+  "bosnia_and_herzegovina": {
+    "id": "Bosnie Herzégovine",
+    "name": "Bosnie Herzégovine",
+    "nationality": {
+      "male": "bosniaque",
+      "female": "Bosnie"
+    },
+    "currency": "BAM",
+    "flag": {
+      "emoji": "🇧🇦",
+      "url": "https://flagpedia.net/data/flags/w20/ba.png"
+    },
+    "phone_code": "+387"
+  },
+  "botswana": {
+    "id": "Botswana",
+    "name": "Botswana",
+    "nationality": {
+      "male": "Botswana",
+      "female": "Botswana"
+    },
+    "currency": "BWP",
+    "flag": {
+      "emoji": "🇧🇼",
+      "url": "https://flagpedia.net/data/flags/w20/bw.png"
+    },
+    "phone_code": "+267"
+  },
+  "brazil": {
+    "id": "Brésil",
+    "name": "Brésil",
+    "nationality": {
+      "male": "brésilien",
+      "female": "brésilien"
+    },
+    "currency": "BRL",
+    "flag": {
+      "emoji": "🇧🇷",
+      "url": "https://flagpedia.net/data/flags/w20/br.png"
+    },
+    "phone_code": "+55"
+  },
+  "brunei": {
+    "id": "Brunéi",
+    "name": "Brunéi",
+    "nationality": {
+      "male": "Brunéien",
+      "female": "Brunéien"
+    },
+    "currency": "BND",
+    "flag": {
+      "emoji": "🇧🇳",
+      "url": "https://flagpedia.net/data/flags/w20/bn.png"
+    },
+    "phone_code": "+673"
+  },
+  "bulgaria": {
+    "id": "Bulgarie",
+    "name": "Bulgarie",
+    "nationality": {
+      "male": "bulgare",
+      "female": "bulgare"
+    },
+    "currency": "BGN",
+    "flag": {
+      "emoji": "🇧🇬",
+      "url": "https://flagpedia.net/data/flags/w20/bg.png"
+    },
+    "phone_code": "+359"
+  },
+  "burkina_faso": {
+    "id": "Burkina Faso",
+    "name": "Burkina Faso",
+    "nationality": {
+      "male": "burkinabé",
+      "female": "burkinabé"
+    },
+    "currency": "XOF",
+    "flag": {
+      "emoji": "🇧🇫",
+      "url": "https://flagpedia.net/data/flags/w20/bf.png"
+    },
+    "phone_code": "+226"
+  },
+  "burundi": {
+    "id": "Burundi",
+    "name": "Burundi",
+    "nationality": {
+      "male": "burundais",
+      "female": "burundais"
+    },
+    "currency": "FIF",
+    "flag": {
+      "emoji": "🇧🇮",
+      "url": "https://flagpedia.net/data/flags/w20/bi.png"
+    },
+    "phone_code": "+257"
+  },
+  "cabo_verde": {
+    "id": "Cap Vert",
+    "name": "Cap Vert",
+    "nationality": {
+      "male": "Cap-Verdien",
+      "female": "Cap-Verdien"
+    },
+    "currency": "CVE",
+    "flag": {
+      "emoji": "🇨🇻",
+      "url": "https://flagpedia.net/data/flags/w20/cv.png"
+    },
+    "phone_code": "+238"
+  },
+  "cambodia": {
+    "id": "Cambodge",
+    "name": "Cambodge",
+    "nationality": {
+      "male": "cambodgien",
+      "female": "cambodgien"
+    },
+    "currency": "KHR",
+    "flag": {
+      "emoji": "🇰🇭",
+      "url": "https://flagpedia.net/data/flags/w20/kh.png"
+    },
+    "phone_code": "+855"
+  },
+  "cameroon": {
+    "id": "Cameroun",
+    "name": "Cameroun",
+    "nationality": {
+      "male": "Camerounais",
+      "female": "Camerounais"
+    },
+    "currency": "XAF",
+    "flag": {
+      "emoji": "🇨🇲",
+      "url": "https://flagpedia.net/data/flags/w20/cm.png"
+    },
+    "phone_code": "+237"
+  },
+  "canada": {
+    "id": "Canada",
+    "name": "Canada",
+    "nationality": {
+      "male": "canadien",
+      "female": "canadien"
+    },
+    "currency": "GOUJAT",
+    "flag": {
+      "emoji": "🇨🇦",
+      "url": "https://flagpedia.net/data/flags/w20/ca.png"
+    },
+    "phone_code": "+1"
+  },
+  "central_african_republic": {
+    "id": "République centrafricaine",
+    "name": "République centrafricaine",
+    "nationality": {
+      "male": "Centrafricain",
+      "female": "Centrafricain"
+    },
+    "currency": "XAF",
+    "flag": {
+      "emoji": "🇨🇫",
+      "url": "https://flagpedia.net/data/flags/w20/cf.png"
+    },
+    "phone_code": "+236"
+  },
+  "chad": {
+    "id": "Tchad",
+    "name": "Tchad",
+    "nationality": {
+      "male": "Tchadien",
+      "female": "Chadiana"
+    },
+    "currency": "XAF",
+    "flag": {
+      "emoji": "🇹🇩",
+      "url": "https://flagpedia.net/data/flags/w20/td.png"
+    },
+    "phone_code": "+235"
+  },
+  "chile": {
+    "id": "Chili",
+    "name": "Chili",
+    "nationality": {
+      "male": "chilien",
+      "female": "chilien"
+    },
+    "currency": "CLP",
+    "flag": {
+      "emoji": "🇨🇱",
+      "url": "https://flagpedia.net/data/flags/w20/cl.png"
+    },
+    "phone_code": "+56"
+  },
+  "china": {
+    "id": "Chine",
+    "name": "Chine",
+    "nationality": {
+      "male": "Chinois",
+      "female": "Chinois"
+    },
+    "currency": "CNY",
+    "flag": {
+      "emoji": "🇨🇳",
+      "url": "https://flagpedia.net/data/flags/w20/cn.png"
+    },
+    "phone_code": "+86"
+  },
+  "colombia": {
+    "id": "Colombie",
+    "name": "Colombie",
+    "nationality": {
+      "male": "colombien",
+      "female": "colombien"
+    },
+    "currency": "FLIC",
+    "flag": {
+      "emoji": "🇨🇴",
+      "url": "https://flagpedia.net/data/flags/w20/co.png"
+    },
+    "phone_code": "+57"
+  },
+  "comoros": {
+    "id": "comores",
+    "name": "Comores",
+    "nationality": {
+      "male": "Comorien",
+      "female": "Comorien"
+    },
+    "currency": "KMF",
+    "flag": {
+      "emoji": "🇰🇲",
+      "url": "https://flagpedia.net/data/flags/w20/km.png"
+    },
+    "phone_code": "+269"
+  },
+  "congo_brazzaville": {
+    "id": "congo_brazzaville",
+    "name": "Congo-Brazzaville",
+    "nationality": {
+      "male": "Congolais",
+      "female": "Congolais"
+    },
+    "currency": "XAF",
+    "flag": {
+      "emoji": "🇨🇬",
+      "url": "https://flagpedia.net/data/flags/w20/cg.png"
+    },
+    "phone_code": "+242"
+  },
+  "congo_kinshasa": {
+    "id": "congo_kinshasa",
+    "name": "Congo (Kinshasa)",
+    "nationality": {
+      "male": "Congolais",
+      "female": "Congolais"
+    },
+    "currency": "CDF",
+    "flag": {
+      "emoji": "🇨🇩",
+      "url": "https://flagpedia.net/data/flags/w20/cd.png"
+    },
+    "phone_code": "+243"
+  },
+  "costa_rica": {
+    "id": "Costa Rica",
+    "name": "Costa Rica",
+    "nationality": {
+      "male": "costaricain",
+      "female": "costaricain"
+    },
+    "currency": "CRC",
+    "flag": {
+      "emoji": "🇨🇷",
+      "url": "https://flagpedia.net/data/flags/w20/cr.png"
+    },
+    "phone_code": "+506"
+  },
+  "croatia": {
+    "id": "Croatie",
+    "name": "Croatie",
+    "nationality": {
+      "male": "croate",
+      "female": "croate"
+    },
+    "currency": "HRK",
+    "flag": {
+      "emoji": "🇭🇷",
+      "url": "https://flagpedia.net/data/flags/w20/hr.png"
+    },
+    "phone_code": "+385"
+  },
+  "cuba": {
+    "id": "Cuba",
+    "name": "Cuba",
+    "nationality": {
+      "male": "cubain",
+      "female": "cubain"
+    },
+    "currency": "TASSE,CUC",
+    "flag": {
+      "emoji": "🇨🇺",
+      "url": "https://flagpedia.net/data/flags/w20/cu.png"
+    },
+    "phone_code": "+53"
+  },
+  "cyprus": {
+    "id": "Chypre",
+    "name": "Chypre",
+    "nationality": {
+      "male": "Chypriote",
+      "female": "Chypriote"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇨🇾",
+      "url": "https://flagpedia.net/data/flags/w20/cy.png"
+    },
+    "phone_code": "+357"
+  },
+  "czech_republic": {
+    "id": "République tchèque",
+    "name": "République tchèque",
+    "nationality": {
+      "male": "tchèque",
+      "female": "tchèque"
+    },
+    "currency": "CZK",
+    "flag": {
+      "emoji": "🇨🇿",
+      "url": "https://flagpedia.net/data/flags/w20/cz.png"
+    },
+    "phone_code": "+420"
+  },
+  "denmark": {
+    "id": "Danemark",
+    "name": "Danemark",
+    "nationality": {
+      "male": "danois",
+      "female": "danois"
+    },
+    "currency": "DKK",
+    "flag": {
+      "emoji": "🇩🇰",
+      "url": "https://flagpedia.net/data/flags/w20/dk.png"
+    },
+    "phone_code": "+45"
+  },
+  "djibouti": {
+    "id": "Djibouti",
+    "name": "Djibouti",
+    "nationality": {
+      "male": "Djiboutien",
+      "female": "Djiboutien"
+    },
+    "currency": "DJF",
+    "flag": {
+      "emoji": "🇩🇯",
+      "url": "https://flagpedia.net/data/flags/w20/dj.png"
+    },
+    "phone_code": "+253"
+  },
+  "dominica": {
+    "id": "Dominique",
+    "name": "Dominique",
+    "nationality": {
+      "male": "dominicain",
+      "female": "dominicain"
+    },
+    "currency": "XCD",
+    "flag": {
+      "emoji": "🇩🇲",
+      "url": "https://flagpedia.net/data/flags/w20/dm.png"
+    },
+    "phone_code": "+1-767"
+  },
+  "dominican_republic": {
+    "id": "République dominicaine",
+    "name": "République dominicaine",
+    "nationality": {
+      "male": "dominicain",
+      "female": "dominicain"
+    },
+    "currency": "DOP",
+    "flag": {
+      "emoji": "🇩🇴",
+      "url": "https://flagpedia.net/data/flags/w20/do.png"
+    },
+    "phone_code": "+1-809,+1-829,+1-849"
+  },
+  "ecuador": {
+    "id": "Equateur",
+    "name": "Équateur",
+    "nationality": {
+      "male": "Équatorien",
+      "female": "Équatorien"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇪🇨",
+      "url": "https://flagpedia.net/data/flags/w20/ec.png"
+    },
+    "phone_code": "+593"
+  },
+  "egypt": {
+    "id": "Egypte",
+    "name": "Egypte",
+    "nationality": {
+      "male": "égyptien",
+      "female": "égyptien"
+    },
+    "currency": "EGP",
+    "flag": {
+      "emoji": "🇪🇬",
+      "url": "https://flagpedia.net/data/flags/w20/eg.png"
+    },
+    "phone_code": "+20"
+  },
+  "el_salvador": {
+    "id": "Le Salvador",
+    "name": "Le Salvador",
+    "nationality": {
+      "male": "Salvadorien",
+      "female": "Salvadorien"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇸🇻",
+      "url": "https://flagpedia.net/data/flags/w20/sv.png"
+    },
+    "phone_code": "+503"
+  },
+  "equatorial_guinea": {
+    "id": "Guinée Équatoriale",
+    "name": "Guinée Équatoriale",
+    "nationality": {
+      "male": "Guinée équatorienne",
+      "female": "Guinée équatorienne"
+    },
+    "currency": "XAF",
+    "flag": {
+      "emoji": "🇬🇶",
+      "url": "https://flagpedia.net/data/flags/w20/gq.png"
+    },
+    "phone_code": "+240"
+  },
+  "eritrea": {
+    "id": "Érythrée",
+    "name": "Érythrée",
+    "nationality": {
+      "male": "Érythréen",
+      "female": "Érythrée"
+    },
+    "currency": "ERN",
+    "flag": {
+      "emoji": "🇪🇷",
+      "url": "https://flagpedia.net/data/flags/w20/er.png"
+    },
+    "phone_code": "+291"
+  },
+  "estonia": {
+    "id": "Estonie",
+    "name": "Estonie",
+    "nationality": {
+      "male": "estonien",
+      "female": "estonien"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇪🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ee.png"
+    },
+    "phone_code": "+372"
+  },
+  "eswatini": {
+    "id": "eswatini",
+    "name": "Eswatini",
+    "nationality": {
+      "male": "Swazi",
+      "female": "Swazie"
+    },
+    "currency": "SZL",
+    "flag": {
+      "emoji": "🇸🇿",
+      "url": "https://flagpedia.net/data/flags/w20/sz.png"
+    },
+    "phone_code": "+268"
+  },
+  "ethiopia": {
+    "id": "Ethiopie",
+    "name": "Ethiopie",
+    "nationality": {
+      "male": "éthiopien",
+      "female": "éthiopien"
+    },
+    "currency": "ETB",
+    "flag": {
+      "emoji": "🇪🇹",
+      "url": "https://flagpedia.net/data/flags/w20/et.png"
+    },
+    "phone_code": "+251"
+  },
+  "fiji": {
+    "id": "Fidji",
+    "name": "Fidji",
+    "nationality": {
+      "male": "Fidjien",
+      "female": "Fidjien"
+    },
+    "currency": "FJD",
+    "flag": {
+      "emoji": "🇫🇯",
+      "url": "https://flagpedia.net/data/flags/w20/fj.png"
+    },
+    "phone_code": "+679"
+  },
+  "finland": {
+    "id": "Finlande",
+    "name": "Finlande",
+    "nationality": {
+      "male": "finlandais",
+      "female": "finlandais"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇫🇮",
+      "url": "https://flagpedia.net/data/flags/w20/fi.png"
+    },
+    "phone_code": "+358"
+  },
+  "france": {
+    "id": "France",
+    "name": "France",
+    "nationality": {
+      "male": "Français",
+      "female": "Français"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇫🇷",
+      "url": "https://flagpedia.net/data/flags/w20/fr.png"
+    },
+    "phone_code": "+33"
+  },
+  "gabon": {
+    "id": "Gabon",
+    "name": "Gabon",
+    "nationality": {
+      "male": "gabonais",
+      "female": "gabonais"
+    },
+    "currency": "XAF",
+    "flag": {
+      "emoji": "🇬🇦",
+      "url": "https://flagpedia.net/data/flags/w20/ga.png"
+    },
+    "phone_code": "+241"
+  },
+  "gambia": {
+    "id": "Gambie",
+    "name": "Gambie",
+    "nationality": {
+      "male": "gambien",
+      "female": "gambien"
+    },
+    "currency": "GMD",
+    "flag": {
+      "emoji": "🇬🇲",
+      "url": "https://flagpedia.net/data/flags/w20/gm.png"
+    },
+    "phone_code": "+220"
+  },
+  "georgia": {
+    "id": "Géorgie",
+    "name": "Géorgie",
+    "nationality": {
+      "male": "géorgien",
+      "female": "Géorgienne"
+    },
+    "currency": "GEL",
+    "flag": {
+      "emoji": "🇬🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ge.png"
+    },
+    "phone_code": "+995"
+  },
+  "germany": {
+    "id": "Allemagne",
+    "name": "Allemagne",
+    "nationality": {
+      "male": "Allemand",
+      "female": "Allemand"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇩🇪",
+      "url": "https://flagpedia.net/data/flags/w20/de.png"
+    },
+    "phone_code": "+49"
+  },
+  "ghana": {
+    "id": "Ghana",
+    "name": "Ghana",
+    "nationality": {
+      "male": "ghanéen",
+      "female": "ghanéen"
+    },
+    "currency": "SGH",
+    "flag": {
+      "emoji": "🇬🇭",
+      "url": "https://flagpedia.net/data/flags/w20/gh.png"
+    },
+    "phone_code": "+233"
+  },
+  "greece": {
+    "id": "Grèce",
+    "name": "Grèce",
+    "nationality": {
+      "male": "grec",
+      "female": "grec"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇫🇷",
+      "url": "https://flagpedia.net/data/flags/w20/gr.png"
+    },
+    "phone_code": "+30"
+  },
+  "grenada": {
+    "id": "grenade",
+    "name": "Grenade",
+    "nationality": {
+      "male": "Grenadien",
+      "female": "Grenadine"
+    },
+    "currency": "XCD",
+    "flag": {
+      "emoji": "🇬🇩",
+      "url": "https://flagpedia.net/data/flags/w20/gd.png"
+    },
+    "phone_code": "+1-473"
+  },
+  "guatemala": {
+    "id": "Guatemala",
+    "name": "Guatemala",
+    "nationality": {
+      "male": "guatémaltèque",
+      "female": "guatémaltèque"
+    },
+    "currency": "GTQ",
+    "flag": {
+      "emoji": "🇬🇹",
+      "url": "https://flagpedia.net/data/flags/w20/gt.png"
+    },
+    "phone_code": "+502"
+  },
+  "guinea": {
+    "id": "Guinée",
+    "name": "Guinée",
+    "nationality": {
+      "male": "Guinée",
+      "female": "Guinée"
+    },
+    "currency": "GNF",
+    "flag": {
+      "emoji": "🇬🇳",
+      "url": "https://flagpedia.net/data/flags/w20/gn.png"
+    },
+    "phone_code": "+224"
+  },
+  "guinea_bissau": {
+    "id": "guinée_bissau",
+    "name": "Guinée-Bissau",
+    "nationality": {
+      "male": "Guinée-Bissauense",
+      "female": "Guinée-Bissauense"
+    },
+    "currency": "XOF",
+    "flag": {
+      "emoji": "🇫🇷",
+      "url": "https://flagpedia.net/data/flags/w20/gw.png"
+    },
+    "phone_code": "+245"
+  },
+  "guyana": {
+    "id": "Guyane",
+    "name": "Guyane",
+    "nationality": {
+      "male": "Guyanais",
+      "female": "Guyanais"
+    },
+    "currency": "GYD",
+    "flag": {
+      "emoji": "🇬🇾",
+      "url": "https://flagpedia.net/data/flags/w20/gy.png"
+    },
+    "phone_code": "+592"
+  },
+  "haiti": {
+    "id": "Haïti",
+    "name": "Haïti",
+    "nationality": {
+      "male": "haïtien",
+      "female": "haïtien"
+    },
+    "currency": "HTG,USD",
+    "flag": {
+      "emoji": "🇭🇹",
+      "url": "https://flagpedia.net/data/flags/w20/ht.png"
+    },
+    "phone_code": "+509"
+  },
+  "honduras": {
+    "id": "Honduras",
+    "name": "Honduras",
+    "nationality": {
+      "male": "Hondurien",
+      "female": "Hondurien"
+    },
+    "currency": "HNL",
+    "flag": {
+      "emoji": "🇭🇳",
+      "url": "https://flagpedia.net/data/flags/w20/hn.png"
+    },
+    "phone_code": "+504"
+  },
+  "hungary": {
+    "id": "Hongrie",
+    "name": "Hongrie",
+    "nationality": {
+      "male": "hongrois",
+      "female": "hongrois"
+    },
+    "currency": "HUF",
+    "flag": {
+      "emoji": "🇭🇺",
+      "url": "https://flagpedia.net/data/flags/w20/hu.png"
+    },
+    "phone_code": "+36"
+  },
+  "iceland": {
+    "id": "Islande",
+    "name": "Islande",
+    "nationality": {
+      "male": "islandais",
+      "female": "islandais"
+    },
+    "currency": "ISK",
+    "flag": {
+      "emoji": "🇮🇸",
+      "url": "https://flagpedia.net/data/flags/w20/is.png"
+    },
+    "phone_code": "+354"
+  },
+  "india": {
+    "id": "Inde",
+    "name": "Inde",
+    "nationality": {
+      "male": "Indien",
+      "female": "Indiana"
+    },
+    "currency": "INR",
+    "flag": {
+      "emoji": "🇮🇳",
+      "url": "https://flagpedia.net/data/flags/w20/in.png"
+    },
+    "phone_code": "+91"
+  },
+  "indonesia": {
+    "id": "Indonésie",
+    "name": "Indonésie",
+    "nationality": {
+      "male": "indonésien",
+      "female": "Indonésie"
+    },
+    "currency": "IDR",
+    "flag": {
+      "emoji": "🇮🇩",
+      "url": "https://flagpedia.net/data/flags/w20/id.png"
+    },
+    "phone_code": "+62"
+  },
+  "iran": {
+    "id": "l'Iran",
+    "name": "L'Iran",
+    "nationality": {
+      "male": "iranien",
+      "female": "iranien"
+    },
+    "currency": "TRI",
+    "flag": {
+      "emoji": "🇮🇷",
+      "url": "https://flagpedia.net/data/flags/w20/ir.png"
+    },
+    "phone_code": "+98"
+  },
+  "iraq": {
+    "id": "Irak",
+    "name": "Irak",
+    "nationality": {
+      "male": "irakien",
+      "female": "irakien"
+    },
+    "currency": "IQD",
+    "flag": {
+      "emoji": "🇮🇶",
+      "url": "https://flagpedia.net/data/flags/w20/iq.png"
+    },
+    "phone_code": "+964"
+  },
+  "ireland": {
+    "id": "Irlande",
+    "name": "Irlande",
+    "nationality": {
+      "male": "irlandais",
+      "female": "irlandais"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇮🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ie.png"
+    },
+    "phone_code": "+353"
+  },
+  "israel": {
+    "id": "Israël",
+    "name": "Israël",
+    "nationality": {
+      "male": "israélien",
+      "female": "israélien"
+    },
+    "currency": "ILS",
+    "flag": {
+      "emoji": "🇮🇱",
+      "url": "https://flagpedia.net/data/flags/w20/il.png"
+    },
+    "phone_code": "+972"
+  },
+  "italy": {
+    "id": "Italie",
+    "name": "Italie",
+    "nationality": {
+      "male": "italien",
+      "female": "italien"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇮🇹",
+      "url": "https://flagpedia.net/data/flags/w20/it.png"
+    },
+    "phone_code": "+39"
+  },
+  "jamaica": {
+    "id": "Jamaïque",
+    "name": "Jamaïque",
+    "nationality": {
+      "male": "jamaïquain",
+      "female": "jamaïquain"
+    },
+    "currency": "JMD",
+    "flag": {
+      "emoji": "🇯🇲",
+      "url": "https://flagpedia.net/data/flags/w20/jm.png"
+    },
+    "phone_code": "+1-876"
+  },
+  "japan": {
+    "id": "Japon",
+    "name": "Japon",
+    "nationality": {
+      "male": "Japonais",
+      "female": "Japonais"
+    },
+    "currency": "JPY",
+    "flag": {
+      "emoji": "🇯🇵",
+      "url": "https://flagpedia.net/data/flags/w20/jp.png"
+    },
+    "phone_code": "+81"
+  },
+  "jordan": {
+    "id": "Jordan",
+    "name": "Jordan",
+    "nationality": {
+      "male": "Jordan",
+      "female": "Jordana"
+    },
+    "currency": "JOD",
+    "flag": {
+      "emoji": "🇯🇴",
+      "url": "https://flagpedia.net/data/flags/w20/jo.png"
+    },
+    "phone_code": "+962"
+  },
+  "kazakhstan": {
+    "id": "Kazakhstan",
+    "name": "Kazakhstan",
+    "nationality": {
+      "male": "Kazakh",
+      "female": "Kazakh"
+    },
+    "currency": "KZT",
+    "flag": {
+      "emoji": "🇰🇿",
+      "url": "https://flagpedia.net/data/flags/w20/kz.png"
+    },
+    "phone_code": "+7"
+  },
+  "kenya": {
+    "id": "Kenya",
+    "name": "Kenya",
+    "nationality": {
+      "male": "Kenyan",
+      "female": "Kenyan"
+    },
+    "currency": "KES",
+    "flag": {
+      "emoji": "🇰🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ke.png"
+    },
+    "phone_code": "+254"
+  },
+  "kiribati": {
+    "id": "Kiribati",
+    "name": "Kiribati",
+    "nationality": {
+      "male": "Kiribatien",
+      "female": "Kiribatiana"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇰🇮",
+      "url": "https://flagpedia.net/data/flags/w20/ki.png"
+    },
+    "phone_code": "+686"
+  },
+  "kuwait": {
+    "id": "Koweit",
+    "name": "Koweit",
+    "nationality": {
+      "male": "koweïtien",
+      "female": "koweïtien"
+    },
+    "currency": "KWD",
+    "flag": {
+      "emoji": "🇰🇼",
+      "url": "https://flagpedia.net/data/flags/w20/kw.png"
+    },
+    "phone_code": "+965"
+  },
+  "kyrgyzstan": {
+    "id": "Kirghizistan",
+    "name": "Kirghizistan",
+    "nationality": {
+      "male": "Kirghize",
+      "female": "Kirghize"
+    },
+    "currency": "KG",
+    "flag": {
+      "emoji": "🇰🇬",
+      "url": "https://flagpedia.net/data/flags/w20/kg.png"
+    },
+    "phone_code": "+996"
+  },
+  "laos": {
+    "id": "Laos",
+    "name": "Laos",
+    "nationality": {
+      "male": "Laothien",
+      "female": "Laotien"
+    },
+    "currency": "LAC",
+    "flag": {
+      "emoji": "🇱🇦",
+      "url": "https://flagpedia.net/data/flags/w20/la.png"
+    },
+    "phone_code": "+856"
+  },
+  "latvia": {
+    "id": "Lettonie",
+    "name": "Lettonie",
+    "nationality": {
+      "male": "letton",
+      "female": "letton"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇱🇻",
+      "url": "https://flagpedia.net/data/flags/w20/lv.png"
+    },
+    "phone_code": "+371"
+  },
+  "lebanon": {
+    "id": "Liban",
+    "name": "Liban",
+    "nationality": {
+      "male": "libanais",
+      "female": "libanais"
+    },
+    "currency": "LBP",
+    "flag": {
+      "emoji": "🇱🇧",
+      "url": "https://flagpedia.net/data/flags/w20/lb.png"
+    },
+    "phone_code": "+961"
+  },
+  "lesotho": {
+    "id": "Lesotho",
+    "name": "Lesotho",
+    "nationality": {
+      "male": "Basotho",
+      "female": "Basota"
+    },
+    "currency": "LSL,ZAR",
+    "flag": {
+      "emoji": "🇱🇸",
+      "url": "https://flagpedia.net/data/flags/w20/ls.png"
+    },
+    "phone_code": "+266"
+  },
+  "liberia": {
+    "id": "Libéria",
+    "name": "Libéria",
+    "nationality": {
+      "male": "Libérien",
+      "female": "Libérien"
+    },
+    "currency": "LRD",
+    "flag": {
+      "emoji": "🇱🇷",
+      "url": "https://flagpedia.net/data/flags/w20/lr.png"
+    },
+    "phone_code": "+231"
+  },
+  "libya": {
+    "id": "Libye",
+    "name": "Libye",
+    "nationality": {
+      "male": "libyen",
+      "female": "Libye"
+    },
+    "currency": "LYD",
+    "flag": {
+      "emoji": "🇱🇾",
+      "url": "https://flagpedia.net/data/flags/w20/ly.png"
+    },
+    "phone_code": "+218"
+  },
+  "liechtenstein": {
+    "id": "Liechtenstein",
+    "name": "Liechtenstein",
+    "nationality": {
+      "male": "Liechtensteinien",
+      "female": "Liechtensteinien"
+    },
+    "currency": "CHF",
+    "flag": {
+      "emoji": "🇱🇮",
+      "url": "https://flagpedia.net/data/flags/w20/li.png"
+    },
+    "phone_code": "+423"
+  },
+  "lithuania": {
+    "id": "Lituanie",
+    "name": "Lituanie",
+    "nationality": {
+      "male": "lituanien",
+      "female": "lituanien"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇱🇹",
+      "url": "https://flagpedia.net/data/flags/w20/lt.png"
+    },
+    "phone_code": "+370"
+  },
+  "luxembourg": {
+    "id": "Luxembourg",
+    "name": "Luxembourg",
+    "nationality": {
+      "male": "luxembourgeois",
+      "female": "luxembourgeois"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇱🇺",
+      "url": "https://flagpedia.net/data/flags/w20/lu.png"
+    },
+    "phone_code": "+352"
+  },
+  "madagascar": {
+    "id": "Madagascar",
+    "name": "Madagascar",
+    "nationality": {
+      "male": "malgache",
+      "female": "malgache"
+    },
+    "currency": "MGA",
+    "flag": {
+      "emoji": "🇲🇬",
+      "url": "https://flagpedia.net/data/flags/w20/mg.png"
+    },
+    "phone_code": "+261"
+  },
+  "malawi": {
+    "id": "Malawi",
+    "name": "Malawi",
+    "nationality": {
+      "male": "malawien",
+      "female": "malawien"
+    },
+    "currency": "MWK",
+    "flag": {
+      "emoji": "🇲🇼",
+      "url": "https://flagpedia.net/data/flags/w20/mw.png"
+    },
+    "phone_code": "+265"
+  },
+  "malaysia": {
+    "id": "Malaisie",
+    "name": "Malaisie",
+    "nationality": {
+      "male": "malais",
+      "female": "Malaisie"
+    },
+    "currency": "MYR",
+    "flag": {
+      "emoji": "🇲🇾",
+      "url": "https://flagpedia.net/data/flags/w20/my.png"
+    },
+    "phone_code": "+60"
+  },
+  "maldives": {
+    "id": "Maldives",
+    "name": "Maldives",
+    "nationality": {
+      "male": "Maldivien",
+      "female": "Maldivien"
+    },
+    "currency": "MVR",
+    "flag": {
+      "emoji": "🇲🇻",
+      "url": "https://flagpedia.net/data/flags/w20/mv.png"
+    },
+    "phone_code": "+960"
+  },
+  "mali": {
+    "id": "Mali",
+    "name": "Mali",
+    "nationality": {
+      "male": "Malien",
+      "female": "Maliana"
+    },
+    "currency": "XOF",
+    "flag": {
+      "emoji": "🇲🇱",
+      "url": "https://flagpedia.net/data/flags/w20/ml.png"
+    },
+    "phone_code": "+223"
+  },
+  "malta": {
+    "id": "Malte",
+    "name": "Malte",
+    "nationality": {
+      "male": "maltais",
+      "female": "maltais"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇲🇹",
+      "url": "https://flagpedia.net/data/flags/w20/mt.png"
+    },
+    "phone_code": "+356"
+  },
+  "marshall_islands": {
+    "id": "Iles Marshall",
+    "name": "Iles Marshall",
+    "nationality": {
+      "male": "Maréchaux",
+      "female": "Maréchaux"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇲🇭",
+      "url": "https://flagpedia.net/data/flags/w20/mh.png"
+    },
+    "phone_code": "+692"
+  },
+  "mauritania": {
+    "id": "Mauritanie",
+    "name": "Mauritanie",
+    "nationality": {
+      "male": "mauritanien",
+      "female": "mauritanien"
+    },
+    "currency": "MRU",
+    "flag": {
+      "emoji": "🇲🇷",
+      "url": "https://flagpedia.net/data/flags/w20/mr.png"
+    },
+    "phone_code": "+222"
+  },
+  "mauritius": {
+    "id": "Maurice",
+    "name": "Maurice",
+    "nationality": {
+      "male": "mauricien",
+      "female": "mauricien"
+    },
+    "currency": "MUR",
+    "flag": {
+      "emoji": "🇲🇺",
+      "url": "https://flagpedia.net/data/flags/w20/mu.png"
+    },
+    "phone_code": "+230"
+  },
+  "mexico": {
+    "id": "Mexique",
+    "name": "Mexique",
+    "nationality": {
+      "male": "mexicain",
+      "female": "mexicain"
+    },
+    "currency": "MXN",
+    "flag": {
+      "emoji": "🇲🇽",
+      "url": "https://flagpedia.net/data/flags/w20/mx.png"
+    },
+    "phone_code": "+52"
+  },
+  "micronesia": {
+    "id": "Micronésie",
+    "name": "Micronésie",
+    "nationality": {
+      "male": "Micronésien",
+      "female": "Micronésie"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇫🇲",
+      "url": "https://flagpedia.net/data/flags/w20/fm.png"
+    },
+    "phone_code": "+691"
+  },
+  "moldova": {
+    "id": "Moldavie",
+    "name": "Moldavie",
+    "nationality": {
+      "male": "Moldave",
+      "female": "Moldavie"
+    },
+    "currency": "MDP",
+    "flag": {
+      "emoji": "🇲🇩",
+      "url": "https://flagpedia.net/data/flags/w20/md.png"
+    },
+    "phone_code": "+373"
+  },
+  "monaco": {
+    "id": "Monaco",
+    "name": "Monaco",
+    "nationality": {
+      "male": "Monégasque",
+      "female": "Monégasque"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇲🇨",
+      "url": "https://flagpedia.net/data/flags/w20/mc.png"
+    },
+    "phone_code": "+377"
+  },
+  "mongolia": {
+    "id": "Mongolie",
+    "name": "Mongolie",
+    "nationality": {
+      "male": "mongol",
+      "female": "mongol"
+    },
+    "currency": "MNT",
+    "flag": {
+      "emoji": "🇲🇳",
+      "url": "https://flagpedia.net/data/flags/w20/mn.png"
+    },
+    "phone_code": "+976"
+  },
+  "montenegro": {
+    "id": "Monténégro",
+    "name": "Monténégro",
+    "nationality": {
+      "male": "monténégrin",
+      "female": "monténégrin"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇲🇪",
+      "url": "https://flagpedia.net/data/flags/w20/me.png"
+    },
+    "phone_code": "+382"
+  },
+  "morocco": {
+    "id": "Maroc",
+    "name": "Maroc",
+    "nationality": {
+      "male": "marocain",
+      "female": "marocain"
+    },
+    "currency": "FOU",
+    "flag": {
+      "emoji": "🇲🇦",
+      "url": "https://flagpedia.net/data/flags/w20/ma.png"
+    },
+    "phone_code": "+212"
+  },
+  "mozambique": {
+    "id": "Mozambique",
+    "name": "Mozambique",
+    "nationality": {
+      "male": "Mozambicain",
+      "female": "Mozambicain"
+    },
+    "currency": "MZN",
+    "flag": {
+      "emoji": "🇲🇿",
+      "url": "https://flagpedia.net/data/flags/w20/mz.png"
+    },
+    "phone_code": "+258"
+  },
+  "myanmar": {
+    "id": "Myanmar",
+    "name": "Birmanie",
+    "nationality": {
+      "male": "Birmanais",
+      "female": "Birmanais"
+    },
+    "currency": "MMK",
+    "flag": {
+      "emoji": "🇲🇲",
+      "url": "https://flagpedia.net/data/flags/w20/mm.png"
+    },
+    "phone_code": "+95"
+  },
+  "namibia": {
+    "id": "Namibie",
+    "name": "Namibie",
+    "nationality": {
+      "male": "Namibien",
+      "female": "Namibien"
+    },
+    "currency": "NAD, ZAR",
+    "flag": {
+      "emoji": "🇳🇦",
+      "url": "https://flagpedia.net/data/flags/w20/na.png"
+    },
+    "phone_code": "+264"
+  },
+  "nauru": {
+    "id": "Nauru",
+    "name": "Nauru",
+    "nationality": {
+      "male": "Nauruan",
+      "female": "Nauruana"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇳🇷",
+      "url": "https://flagpedia.net/data/flags/w20/nr.png"
+    },
+    "phone_code": "+674"
+  },
+  "nepal": {
+    "id": "Népal",
+    "name": "Népal",
+    "nationality": {
+      "male": "Népalais",
+      "female": "Népalais"
+    },
+    "currency": "Radio Nationale Publique",
+    "flag": {
+      "emoji": "🇳🇵",
+      "url": "https://flagpedia.net/data/flags/w20/np.png"
+    },
+    "phone_code": "+977"
+  },
+  "netherlands": {
+    "id": "Pays-Bas",
+    "name": "Pays-Bas",
+    "nationality": {
+      "male": "Néerlandais",
+      "female": "Néerlandais"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇳🇱",
+      "url": "https://flagpedia.net/data/flags/w20/nl.png"
+    },
+    "phone_code": "+31"
+  },
+  "new_zealand": {
+    "id": "Nouvelle-Zélande",
+    "name": "Nouvelle-Zélande",
+    "nationality": {
+      "male": "Néo-Zélandais",
+      "female": "Néo-Zélandais"
+    },
+    "currency": "CAD",
+    "flag": {
+      "emoji": "🇳🇿",
+      "url": "https://flagpedia.net/data/flags/w20/nz.png"
+    },
+    "phone_code": "+64"
+  },
+  "nicaragua": {
+    "id": "Nicaragua",
+    "name": "Nicaragua",
+    "nationality": {
+      "male": "nicaraguayen",
+      "female": "nicaraguayen"
+    },
+    "currency": "NIO",
+    "flag": {
+      "emoji": "🇳🇮",
+      "url": "https://flagpedia.net/data/flags/w20/ni.png"
+    },
+    "phone_code": "+505"
+  },
+  "niger": {
+    "id": "Niger",
+    "name": "Niger",
+    "nationality": {
+      "male": "Nigérien",
+      "female": "Nigériane"
+    },
+    "currency": "XOF",
+    "flag": {
+      "emoji": "🇳🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ne.png"
+    },
+    "phone_code": "+227"
+  },
+  "nigeria": {
+    "id": "Nigeria",
+    "name": "Nigeria",
+    "nationality": {
+      "male": "Nigérian",
+      "female": "Nigérian"
+    },
+    "currency": "NGN",
+    "flag": {
+      "emoji": "🇳🇬",
+      "url": "https://flagpedia.net/data/flags/w20/ng.png"
+    },
+    "phone_code": "+234"
+  },
+  "north_macedonia": {
+    "id": "nord_macédoine",
+    "name": "Macédoine du Nord",
+    "nationality": {
+      "male": "Macédonien",
+      "female": "Macédoine"
+    },
+    "currency": "MKD",
+    "flag": {
+      "emoji": "🇲🇰",
+      "url": "https://flagpedia.net/data/flags/w20/mk.png"
+    },
+    "phone_code": "+389"
+  },
+  "norway": {
+    "id": "Norvège",
+    "name": "Norvège",
+    "nationality": {
+      "male": "norvégien",
+      "female": "norvégien"
+    },
+    "currency": "NOK",
+    "flag": {
+      "emoji": "🇳🇴",
+      "url": "https://flagpedia.net/data/flags/w20/no.png"
+    },
+    "phone_code": "+47"
+  },
+  "oman": {
+    "id": "Oman",
+    "name": "Oman",
+    "nationality": {
+      "male": "Omanais",
+      "female": "Omanais"
+    },
+    "currency": "OMR",
+    "flag": {
+      "emoji": "🇴🇲",
+      "url": "https://flagpedia.net/data/flags/w20/om.png"
+    },
+    "phone_code": "+968"
+  },
+  "pakistan": {
+    "id": "Pakistan",
+    "name": "Pakistan",
+    "nationality": {
+      "male": "pakistanais",
+      "female": "pakistanais"
+    },
+    "currency": "PKR",
+    "flag": {
+      "emoji": "🇵🇰",
+      "url": "https://flagpedia.net/data/flags/w20/pk.png"
+    },
+    "phone_code": "+92"
+  },
+  "palau": {
+    "id": "Palaos",
+    "name": "Palaos",
+    "nationality": {
+      "male": "Palaos",
+      "female": "Palauana"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇵🇼",
+      "url": "https://flagpedia.net/data/flags/w20/pw.png"
+    },
+    "phone_code": "+680"
+  },
+  "palestine": {
+    "id": "Palestine",
+    "name": "Palestine",
+    "nationality": {
+      "male": "palestinien",
+      "female": "Palestine"
+    },
+    "currency": "ILS",
+    "flag": {
+      "emoji": "🇵🇸",
+      "url": "https://flagpedia.net/data/flags/w20/ps.png"
+    },
+    "phone_code": "+970"
+  },
+  "panama": {
+    "id": "Panama",
+    "name": "Panama",
+    "nationality": {
+      "male": "panaméen",
+      "female": "Panama"
+    },
+    "currency": "PAB,USD",
+    "flag": {
+      "emoji": "🇵🇦",
+      "url": "https://flagpedia.net/data/flags/w20/pa.png"
+    },
+    "phone_code": "+507"
+  },
+  "papua_new_guinea": {
+    "id": "Papouasie Nouvelle Guinée",
+    "name": "Papouasie Nouvelle Guinée",
+    "nationality": {
+      "male": "papou",
+      "female": "Papouasie"
+    },
+    "currency": "PGK",
+    "flag": {
+      "emoji": "🇵🇬",
+      "url": "https://flagpedia.net/data/flags/w20/pg.png"
+    },
+    "phone_code": "+675"
+  },
+  "paraguay": {
+    "id": "Paraguay",
+    "name": "Paraguay",
+    "nationality": {
+      "male": "Paraguayen",
+      "female": "Paraguayen"
+    },
+    "currency": "PYG",
+    "flag": {
+      "emoji": "🇵🇾",
+      "url": "https://flagpedia.net/data/flags/w20/py.png"
+    },
+    "phone_code": "+595"
+  },
+  "peru": {
+    "id": "Pérou",
+    "name": "Pérou",
+    "nationality": {
+      "male": "péruvien",
+      "female": "péruvien"
+    },
+    "currency": "STYLO",
+    "flag": {
+      "emoji": "🇵🇪",
+      "url": "https://flagpedia.net/data/flags/w20/pe.png"
+    },
+    "phone_code": "+51"
+  },
+  "philippines": {
+    "id": "Philippines",
+    "name": "Philippines",
+    "nationality": {
+      "male": "Philippin",
+      "female": "Philippine"
+    },
+    "currency": "PHP",
+    "flag": {
+      "emoji": "🇵🇭",
+      "url": "https://flagpedia.net/data/flags/w20/ph.png"
+    },
+    "phone_code": "+63"
+  },
+  "poland": {
+    "id": "Pologne",
+    "name": "Pologne",
+    "nationality": {
+      "male": "polonais",
+      "female": "polonais"
+    },
+    "currency": "PLN",
+    "flag": {
+      "emoji": "🇵🇱",
+      "url": "https://flagpedia.net/data/flags/w20/pl.png"
+    },
+    "phone_code": "+48"
+  },
+  "portugal": {
+    "id": "le Portugal",
+    "name": "le Portugal",
+    "nationality": {
+      "male": "Portugais",
+      "female": "Portugais"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇵🇹",
+      "url": "https://flagpedia.net/data/flags/w20/pt.png"
+    },
+    "phone_code": "+351"
+  },
+  "puerto_rico": {
+    "id": "porto_rico",
+    "name": "Porto Rico",
+    "nationality": {
+      "male": "Portoricain",
+      "female": "portoricain"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇵🇷",
+      "url": "https://flagpedia.net/data/flags/w20/pr.png"
+    },
+    "phone_code": "+1-787, +1-939"
+  },
+  "qatar": {
+    "id": "Qatar",
+    "name": "Qatar",
+    "nationality": {
+      "male": "Catari",
+      "female": "Catari"
+    },
+    "currency": "QAR",
+    "flag": {
+      "emoji": "🇶🇦",
+      "url": "https://flagpedia.net/data/flags/w20/qa.png"
+    },
+    "phone_code": "+974"
+  },
+  "romania": {
+    "id": "Roumanie",
+    "name": "Roumanie",
+    "nationality": {
+      "male": "roumain",
+      "female": "roumain"
+    },
+    "currency": "RON",
+    "flag": {
+      "emoji": "🇷🇴",
+      "url": "https://flagpedia.net/data/flags/w20/ro.png"
+    },
+    "phone_code": "+40"
+  },
+  "russia": {
+    "id": "Russie",
+    "name": "Russie",
+    "nationality": {
+      "male": "russe",
+      "female": "russe"
+    },
+    "currency": "FROTTER",
+    "flag": {
+      "emoji": "🇷🇺",
+      "url": "https://flagpedia.net/data/flags/w20/ru.png"
+    },
+    "phone_code": "+7"
+  },
+  "rwanda": {
+    "id": "Rwanda",
+    "name": "Rwanda",
+    "nationality": {
+      "male": "Rwandais",
+      "female": "Rwandais"
+    },
+    "currency": "FRW",
+    "flag": {
+      "emoji": "🇷🇼",
+      "url": "https://flagpedia.net/data/flags/w20/rw.png"
+    },
+    "phone_code": "+250"
+  },
+  "saint_kitts_and_nevis": {
+    "id": "Saint-Christophe-et-Niévès",
+    "name": "Saint-Christophe-et-Niévès",
+    "nationality": {
+      "male": "Saint Kitts ou Nevisense",
+      "female": "Saint Kitts ou Nevisense"
+    },
+    "currency": "XCD",
+    "flag": {
+      "emoji": "🇰🇳",
+      "url": "https://flagpedia.net/data/flags/w20/kn.png"
+    },
+    "phone_code": "+1869"
+  },
+  "saint_lucia": {
+    "id": "Sainte-Lucie",
+    "name": "Sainte-Lucie",
+    "nationality": {
+      "male": "Santa Lucense",
+      "female": "Santa Lucense"
+    },
+    "currency": "XCD",
+    "flag": {
+      "emoji": "🇱🇨",
+      "url": "https://flagpedia.net/data/flags/w20/lc.png"
+    },
+    "phone_code": "+1758"
+  },
+  "saint_vincent_and_the_grenadines": {
+    "id": "Saint-Vincent-et-les-Grenadines",
+    "name": "Saint-Vincent-et-les-Grenadines",
+    "nationality": {
+      "male": "Saint-Vincent",
+      "female": "Saint-Vincent"
+    },
+    "currency": "XCD",
+    "flag": {
+      "emoji": "🇻🇨",
+      "url": "https://flagpedia.net/data/flags/w20/vc.png"
+    },
+    "phone_code": "+1784"
+  },
+  "samoa": {
+    "id": "samoa",
+    "name": "Samoa",
+    "nationality": {
+      "male": "Samoan",
+      "female": "Samoana"
+    },
+    "currency": "WST",
+    "flag": {
+      "emoji": "🇼🇸",
+      "url": "https://flagpedia.net/data/flags/w20/ws.png"
+    },
+    "phone_code": "+685"
+  },
+  "san_marino": {
+    "id": "Saint Marin",
+    "name": "Saint Marin",
+    "nationality": {
+      "male": "Saint Marin",
+      "female": "Saint Marin"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇸🇲",
+      "url": "https://flagpedia.net/data/flags/w20/sm.png"
+    },
+    "phone_code": "+378"
+  },
+  "sao_tome_and_principe": {
+    "id": "sao_tome_and_principe",
+    "name": "Sao Tomé et Principe",
+    "nationality": {
+      "male": "Santomense",
+      "female": "Santomense"
+    },
+    "currency": "STN",
+    "flag": {
+      "emoji": "🇸🇹",
+      "url": "https://flagpedia.net/data/flags/w20/st.png"
+    },
+    "phone_code": "+239"
+  },
+  "saudi_arabia": {
+    "id": "Arabie Saoudite",
+    "name": "Arabie Saoudite",
+    "nationality": {
+      "male": "saoudien",
+      "female": "saoudien"
+    },
+    "currency": "DAS",
+    "flag": {
+      "emoji": "🇸🇦",
+      "url": "https://flagpedia.net/data/flags/w20/sa.png"
+    },
+    "phone_code": "+966"
+  },
+  "senegal": {
+    "id": "Sénégal",
+    "name": "Sénégal",
+    "nationality": {
+      "male": "Sénégalais",
+      "female": "Sénégalais"
+    },
+    "currency": "XOF",
+    "flag": {
+      "emoji": "🇸🇳",
+      "url": "https://flagpedia.net/data/flags/w20/sn.png"
+    },
+    "phone_code": "+221"
+  },
+  "serbia": {
+    "id": "Serbie",
+    "name": "Serbie",
+    "nationality": {
+      "male": "serbe",
+      "female": "Serbie"
+    },
+    "currency": "RSD",
+    "flag": {
+      "emoji": "🇷🇸",
+      "url": "https://flagpedia.net/data/flags/w20/rs.png"
+    },
+    "phone_code": "+381"
+  },
+  "seychelles": {
+    "id": "les Seychelles",
+    "name": "les Seychelles",
+    "nationality": {
+      "male": "Seychellois",
+      "female": "Seychellois"
+    },
+    "currency": "RCS",
+    "flag": {
+      "emoji": "🇸🇨",
+      "url": "https://flagpedia.net/data/flags/w20/sc.png"
+    },
+    "phone_code": "+248"
+  },
+  "sierra_leone": {
+    "id": "Sierra Leone",
+    "name": "Sierra Leone",
+    "nationality": {
+      "male": "Sierra Léonais",
+      "female": "Sierra Léonais"
+    },
+    "currency": "SLL",
+    "flag": {
+      "emoji": "🇸🇱",
+      "url": "https://flagpedia.net/data/flags/w20/sl.png"
+    },
+    "phone_code": "+232"
+  },
+  "singapore": {
+    "id": "Singapour",
+    "name": "Singapour",
+    "nationality": {
+      "male": "singapourien",
+      "female": "singapourien"
+    },
+    "currency": "SGD",
+    "flag": {
+      "emoji": "🇸🇬",
+      "url": "https://flagpedia.net/data/flags/w20/sg.png"
+    },
+    "phone_code": "+65"
+  },
+  "slovakia": {
+    "id": "Slovaquie",
+    "name": "Slovaquie",
+    "nationality": {
+      "male": "slovaque",
+      "female": "slovaque"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇸🇰",
+      "url": "https://flagpedia.net/data/flags/w20/sk.png"
+    },
+    "phone_code": "+421"
+  },
+  "slovenia": {
+    "id": "la Slovénie",
+    "name": "Slovénie",
+    "nationality": {
+      "male": "slovène",
+      "female": "slovène"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇸🇮",
+      "url": "https://flagpedia.net/data/flags/w20/si.png"
+    },
+    "phone_code": "+386"
+  },
+  "solomon_islands": {
+    "id": "Les îles Salomon",
+    "name": "Les îles Salomon",
+    "nationality": {
+      "male": "Salomonique",
+      "female": "Salomonique"
+    },
+    "currency": "SBD",
+    "flag": {
+      "emoji": "🇸🇧",
+      "url": "https://flagpedia.net/data/flags/w20/sb.png"
+    },
+    "phone_code": "+677"
+  },
+  "somalia": {
+    "id": "Somalie",
+    "name": "Somalie",
+    "nationality": {
+      "male": "somali",
+      "female": "somali"
+    },
+    "currency": "SOS",
+    "flag": {
+      "emoji": "🇸🇴",
+      "url": "https://flagpedia.net/data/flags/w20/so.png"
+    },
+    "phone_code": "+252"
+  },
+  "south_africa": {
+    "id": "Afrique du Sud",
+    "name": "Afrique du Sud",
+    "nationality": {
+      "male": "Sud africain",
+      "female": "Sud africain"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇿🇦",
+      "url": "https://flagpedia.net/data/flags/w20/za.png"
+    },
+    "phone_code": "+27"
+  },
+  "south_sudan": {
+    "id": "Soudan du sud",
+    "name": "Soudan du sud",
+    "nationality": {
+      "male": "Soudanais du Sud",
+      "female": "Soudanais du Sud"
+    },
+    "currency": "PAS",
+    "flag": {
+      "emoji": "🇸🇸",
+      "url": "https://flagpedia.net/data/flags/w20/ss.png"
+    },
+    "phone_code": "+211"
+  },
+  "spain": {
+    "id": "Espagne",
+    "name": "Espagne",
+    "nationality": {
+      "male": "Espagnol",
+      "female": "Espagnol"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇪🇸",
+      "url": "https://flagpedia.net/data/flags/w20/es.png"
+    },
+    "phone_code": "+34"
+  },
+  "sri_lanka": {
+    "id": "sri_lanka",
+    "name": "Sri Lanka",
+    "nationality": {
+      "male": "Sri lankais",
+      "female": "Sri lankais"
+    },
+    "currency": "LKR",
+    "flag": {
+      "emoji": "🇱🇰",
+      "url": "https://flagpedia.net/data/flags/w20/lk.png"
+    },
+    "phone_code": "+94"
+  },
+  "sudan": {
+    "id": "Soudan",
+    "name": "Soudan",
+    "nationality": {
+      "male": "soudanais",
+      "female": "soudanais"
+    },
+    "currency": "ODD",
+    "flag": {
+      "emoji": "🇸🇩",
+      "url": "https://flagpedia.net/data/flags/w20/sd.png"
+    },
+    "phone_code": "+249"
+  },
+  "suriname": {
+    "id": "surinam",
+    "name": "Surinam",
+    "nationality": {
+      "male": "Surinamien",
+      "female": "Surinamien"
+    },
+    "currency": "SRD",
+    "flag": {
+      "emoji": "🇸🇷",
+      "url": "https://flagpedia.net/data/flags/w20/sr.png"
+    },
+    "phone_code": "+597"
+  },
+  "sweden": {
+    "id": "Suède",
+    "name": "Suède",
+    "nationality": {
+      "male": "suédois",
+      "female": "suédois"
+    },
+    "currency": "SEK",
+    "flag": {
+      "emoji": "🇸🇪",
+      "url": "https://flagpedia.net/data/flags/w20/se.png"
+    },
+    "phone_code": "+46"
+  },
+  "switzerland": {
+    "id": "Suisse",
+    "name": "Suisse",
+    "nationality": {
+      "male": "Suisse",
+      "female": "Suisse"
+    },
+    "currency": "CHF",
+    "flag": {
+      "emoji": "🇨🇭",
+      "url": "https://flagpedia.net/data/flags/w20/ch.png"
+    },
+    "phone_code": "+41"
+  },
+  "syria": {
+    "id": "Syrie",
+    "name": "Syrie",
+    "nationality": {
+      "male": "syrien",
+      "female": "Syrie"
+    },
+    "currency": "SYP",
+    "flag": {
+      "emoji": "🇸🇾",
+      "url": "https://flagpedia.net/data/flags/w20/sy.png"
+    },
+    "phone_code": "+963"
+  },
+  "tajikistan": {
+    "id": "Tadjikistan",
+    "name": "Tadjikistan",
+    "nationality": {
+      "male": "tadjik",
+      "female": "tadjik"
+    },
+    "currency": "TJS",
+    "flag": {
+      "emoji": "🇹🇯",
+      "url": "https://flagpedia.net/data/flags/w20/tj.png"
+    },
+    "phone_code": "+992"
+  },
+  "tanzania": {
+    "id": "Tanzanie",
+    "name": "Tanzanie",
+    "nationality": {
+      "male": "tanzanien",
+      "female": "tanzanien"
+    },
+    "currency": "TZS",
+    "flag": {
+      "emoji": "🇹🇿",
+      "url": "https://flagpedia.net/data/flags/w20/tz.png"
+    },
+    "phone_code": "+255"
+  },
+  "thailand": {
+    "id": "Thaïlande",
+    "name": "Thaïlande",
+    "nationality": {
+      "male": "thaïlandais",
+      "female": "thaïlandais"
+    },
+    "currency": "THB",
+    "flag": {
+      "emoji": "🇹🇭",
+      "url": "https://flagpedia.net/data/flags/w20/th.png"
+    },
+    "phone_code": "+66"
+  },
+  "timor_leste": {
+    "id": "timor_leste",
+    "name": "Timor oriental",
+    "nationality": {
+      "male": "Timorais",
+      "female": "Timorais"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇹🇱",
+      "url": "https://flagpedia.net/data/flags/w20/tl.png"
+    },
+    "phone_code": "+670"
+  },
+  "togo": {
+    "id": "Aller",
+    "name": "Aller",
+    "nationality": {
+      "male": "togolais",
+      "female": "togolais"
+    },
+    "currency": "XOF",
+    "flag": {
+      "emoji": "🇹🇬",
+      "url": "https://flagpedia.net/data/flags/w20/tg.png"
+    },
+    "phone_code": "+228"
+  },
+  "tonga": {
+    "id": "Tonga",
+    "name": "Tonga",
+    "nationality": {
+      "male": "Tongien",
+      "female": "Tongien"
+    },
+    "currency": "HAUT",
+    "flag": {
+      "emoji": "🇹🇴",
+      "url": "https://flagpedia.net/data/flags/w20/to.png"
+    },
+    "phone_code": "+676"
+  },
+  "trinidad_and_tobago": {
+    "id": "Trinité-et-Tobago",
+    "name": "Trinité-et-Tobago",
+    "nationality": {
+      "male": "Trinidadien",
+      "female": "Trinidadien"
+    },
+    "currency": "TTD",
+    "flag": {
+      "emoji": "🇹🇹",
+      "url": "https://flagpedia.net/data/flags/w20/tt.png"
+    },
+    "phone_code": "+1-868"
+  },
+  "tunisia": {
+    "id": "Tunisie",
+    "name": "Tunisie",
+    "nationality": {
+      "male": "tunisien",
+      "female": "tunisien"
+    },
+    "currency": "TND",
+    "flag": {
+      "emoji": "🇹🇳",
+      "url": "https://flagpedia.net/data/flags/w20/tn.png"
+    },
+    "phone_code": "+216"
+  },
+  "turkey": {
+    "id": "dinde",
+    "name": "Turquie",
+    "nationality": {
+      "male": "turc",
+      "female": "turc"
+    },
+    "currency": "ESSAYER",
+    "flag": {
+      "emoji": "🇹🇷",
+      "url": "https://flagpedia.net/data/flags/w20/tr.png"
+    },
+    "phone_code": "+90"
+  },
+  "turkmenistan": {
+    "id": "Turkménistan",
+    "name": "Turkménistan",
+    "nationality": {
+      "male": "Turkmènes",
+      "female": "Turkmènes"
+    },
+    "currency": "TMT",
+    "flag": {
+      "emoji": "🇹🇲",
+      "url": "https://flagpedia.net/data/flags/w20/tm.png"
+    },
+    "phone_code": "+993"
+  },
+  "tuvalu": {
+    "id": "tuvalu",
+    "name": "Tuvalu",
+    "nationality": {
+      "male": "Tuvaluan",
+      "female": "Tuvaluan"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇹🇻",
+      "url": "https://flagpedia.net/data/flags/w20/tv.png"
+    },
+    "phone_code": "+688"
+  },
+  "uganda": {
+    "id": "Ouganda",
+    "name": "Ouganda",
+    "nationality": {
+      "male": "ougandais",
+      "female": "ougandais"
+    },
+    "currency": "UGX",
+    "flag": {
+      "emoji": "🇺🇬",
+      "url": "https://flagpedia.net/data/flags/w20/ug.png"
+    },
+    "phone_code": "+256"
+  },
+  "ukraine": {
+    "id": "Ukraine",
+    "name": "Ukraine",
+    "nationality": {
+      "male": "ukrainien",
+      "female": "ukrainien"
+    },
+    "currency": "UAH",
+    "flag": {
+      "emoji": "🇺🇦",
+      "url": "https://flagpedia.net/data/flags/w20/ua.png"
+    },
+    "phone_code": "+380"
+  },
+  "united_arab_emirates": {
+    "id": "Emirats Arabes Unis",
+    "name": "Emirats Arabes Unis",
+    "nationality": {
+      "male": "Émirati",
+      "female": "Émirati"
+    },
+    "currency": "DEA",
+    "flag": {
+      "emoji": "🇦🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ae.png"
+    },
+    "phone_code": "+971"
+  },
+  "united_kingdom": {
+    "id": "Royaume-Uni",
+    "name": "Royaume-Uni",
+    "nationality": {
+      "male": "Britanique",
+      "female": "Britanique"
+    },
+    "currency": "GBP",
+    "flag": {
+      "emoji": "🇫🇷",
+      "url": "https://flagpedia.net/data/flags/w20/gb.png"
+    },
+    "phone_code": "+44"
+  },
+  "united_states": {
+    "id": "États-Unis",
+    "name": "États-Unis",
+    "nationality": {
+      "male": "Américain",
+      "female": "Américain"
+    },
+    "currency": "USD",
+    "flag": {
+      "emoji": "🇺🇸",
+      "url": "https://flagpedia.net/data/flags/w20/us.png"
+    },
+    "phone_code": "+1"
+  },
+  "uruguay": {
+    "id": "Uruguay",
+    "name": "Uruguay",
+    "nationality": {
+      "male": "uruguayen",
+      "female": "Uruguay"
+    },
+    "currency": "UYU",
+    "flag": {
+      "emoji": "🇺🇾",
+      "url": "https://flagpedia.net/data/flags/w20/uy.png"
+    },
+    "phone_code": "+598"
+  },
+  "uzbekistan": {
+    "id": "Ouzbékistan",
+    "name": "Ouzbékistan",
+    "nationality": {
+      "male": "Ouzbek",
+      "female": "Ouzbek"
+    },
+    "currency": "UZS",
+    "flag": {
+      "emoji": "🇺🇿",
+      "url": "https://flagpedia.net/data/flags/w20/uz.png"
+    },
+    "phone_code": "+998"
+  },
+  "vanuatu": {
+    "id": "Vanuatu",
+    "name": "Vanuatu",
+    "nationality": {
+      "male": "Vanuatuan",
+      "female": "Vanuatuan"
+    },
+    "currency": "VUV",
+    "flag": {
+      "emoji": "🇻🇺",
+      "url": "https://flagpedia.net/data/flags/w20/vu.png"
+    },
+    "phone_code": "+678"
+  },
+  "vatican_city": {
+    "id": "Cité du Vatican",
+    "name": "Cité du Vatican",
+    "nationality": {
+      "male": "Vatican",
+      "female": "Vatican"
+    },
+    "currency": "EUR",
+    "flag": {
+      "emoji": "🇻🇦",
+      "url": "https://flagpedia.net/data/flags/w20/va.png"
+    },
+    "phone_code": "+379"
+  },
+  "venezuela": {
+    "id": "Venezuela",
+    "name": "Venezuela",
+    "nationality": {
+      "male": "vénézuélien",
+      "female": "vénézuélien"
+    },
+    "currency": "VES",
+    "flag": {
+      "emoji": "🇻🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ve.png"
+    },
+    "phone_code": "+58"
+  },
+  "vietnam": {
+    "id": "Viêt Nam",
+    "name": "Viêt Nam",
+    "nationality": {
+      "male": "vietnamien",
+      "female": "vietnamien"
+    },
+    "currency": "VND",
+    "flag": {
+      "emoji": "🇻🇳",
+      "url": "https://flagpedia.net/data/flags/w20/vn.png"
+    },
+    "phone_code": "+84"
+  },
+  "yemen": {
+    "id": "Yémen",
+    "name": "Yémen",
+    "nationality": {
+      "male": "Yéménite",
+      "female": "Yéménite"
+    },
+    "currency": "OUI",
+    "flag": {
+      "emoji": "🇾🇪",
+      "url": "https://flagpedia.net/data/flags/w20/ye.png"
+    },
+    "phone_code": "+967"
+  },
+  "zambia": {
+    "id": "Zambie",
+    "name": "Zambie",
+    "nationality": {
+      "male": "zambien",
+      "female": "zambien"
+    },
+    "currency": "ZMW",
+    "flag": {
+      "emoji": "🇿🇲",
+      "url": "https://flagpedia.net/data/flags/w20/zm.png"
+    },
+    "phone_code": "+260"
+  },
+  "zimbabwe": {
+    "id": "Zimbabwe",
+    "name": "Zimbabwe",
+    "nationality": {
+      "male": "zimbabwéen",
+      "female": "zimbabwéen"
+    },
+    "currency": "ZWL",
+    "flag": {
+      "emoji": "🇿🇼",
+      "url": "https://flagpedia.net/data/flags/w20/zw.png"
+    },
+    "phone_code": "+263"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "routes": {
+    "activities": "Actividades | Mirantes",
+    "activities-label": "Actividades",
+    "activities-label-desc": "Aqui estão todas as actividades",
+    "no-activities": "Sem actividades registadas",
+    "activities-general": {
+      "historical": "Histórico de actividades",
+      "historical-type": {
+        "jobs": "Histórico de actividades nas candidaturas",
+        "collaborators": "Histórico de actividades dos colaboradores",
+        "actions": {
+          "jobs": {
+            "create": "Criou a vaga {{title}}",
+            "update": "Atualizou os dados da vaga {{title}}",
+            "expired": "A data de duração da vaga {{title}} expirou"
+          },
+          "collaborators": {}
+        }
+      },
+      "time-activity": "{{date}} <span>{{time}}</span>"
+    },
+    "package": {
+      "title": "Pacotes de vagas",
+      "desc": "Adquira o pacote de vagas ideal que atende perfeitamente às necessidades da sua empresa.",
+      "get-pack-to-create-job": "Obtenha o pacote para criar uma vaga",
+      "to-set-restrictions": "Para definir restrições, você deve comprar o pacote premium ou platinum",
+      "buy-job-package": "Compre uma vaga para favoritar este(a) candidato(a).",
+      "available-advanced-plan": "Esta funcionalidade está disponível apenas para os planos <b>premium</b> e <b>platinum</b>",
+      "only-platinum": "Esta funcionalidade está disponível apenas para vagas do tipo <b>platinum</b>",
+      "types": {
+        "simple": "Simples",
+        "premium": "Premium",
+        "platinum": "Platinum"
+      },
+      "packages": {
+        "simple": "Pacote de vagas simples",
+        "premium": "Pacote de vagas premium",
+        "platinum": "Pacote de vagas platinum"
+      },
+      "btn-buy-label": "Comprar",
+      "info": "Informações sobre o pacote",
+      "info-desc": "Adquira o pacote de vagas ideal que atende perfeitamente às necessidades da sua empresa.",
+      "package-type": {
+        "quantity-label": {
+          "simple": "Quantidade de vagas simples",
+          "premium": "Quantidade de vagas premium",
+          "platinum": "Quantidade de vagas platinum",
+          "principal": "Quantidade de vagas"
+        },
+        "quantity-desc": {
+          "simple": "Selecione  a quantidade de vaga simples que prentende criar",
+          "premium": "Selecione  a quantidade de vaga premium que prentende criar",
+          "platinum": "Selecione  a quantidade de vaga platinum que prentende criar"
+        },
+        "simple": {
+          "first": "Favoritar até 2 candidatos por vaga",
+          "second": "Vaga disponível por 15 dias",
+          "forth": "Não aplica restrições específicas",
+          "fifth": "Não recomenda candidatos automaticamente",
+          "sixth": "Não possui assistente de inteligência artificial (AI)",
+          "seventh": "Vaga local",
+          "eight": "Não há acesso ao relatório da vaga"
+        },
+        "premium": {
+          "first": "Favoritar até 5 candidatos por vaga",
+          "second": "Vaga disponível por 30 dias",
+          "forth": "Aplicar  restrições",
+          "fifth": "Recomenda até 3 candidatos automaticamente",
+          "sixth": "Não possui assistente de inteligência artificial (AI)",
+          "seventh": "Possui sistema de sorting limitado (classificação)",
+          "eight": "Escolher 3 países para divulgar a vaga",
+          "nine": "Tem acesso ao relatório da vaga"
+        },
+        "platinum": {
+          "first": "Favoritar até 25 candidatos",
+          "second": "Vaga disponível por tempo ilimitado",
+          "forth": "Aplicar  restrições",
+          "fifth": "Recomenda até 5 candidatos automaticamente",
+          "sixth": "Possui sistema de sorting (classificação)",
+          "seventh": "Possui assistente de inteligência artificial (AI)",
+          "eight": "Lança a vaga para todo o mundo",
+          "nine": "Tem acesso ao relatório da vaga",
+          "ten": "Vaga editável "
+        },
+        "buttons": {
+          "cancel": "Cancelar",
+          "buy": "Comprar"
+        },
+        "quantity-label-input": "Quantidade:",
+        "error-payment": "Não foi possível prosseguir à compra deste pacote, por favor tente novamente"
+      }
+    },
+    "notifications": "Notificações | Mirantes",
+    "notifications-label": "Notificações",
+    "notifications-label-desc": "Mantenha a sua empresa informada e pronta para agir por meio das notificações.",
+    "/": {
+      "name": "Painel",
+      "title": "Painel | Mirantes"
+    },
+    "/profile": {
+      "name": "Perfil",
+      "title": "{{title}} | Mirantes"
+    },
+    "/recruitment": {
+      "name": "Recrutamento",
+      "title": "Recrutamento | Mirantes",
+      "sub-routes": {
+        "/jobs": {
+          "name": "Vagas",
+          "title": "Vagas | Mirantes",
+          "sub-routes": {
+            "/job": {
+              "title": "{{title}} | Mirantes"
+            },
+            "/new": {
+              "title": "Nova Vaga{{title}} | Mirantes",
+              "sub-routes": {
+                "/settings": {
+                  "title": "Configurar Vaga{{title}} | Mirantes"
+                },
+                "/stages": {
+                  "title": "Gerenciar Etapas{{title}} | Mirantes"
+                }
+              }
+            }
+          }
+        },
+        "/favorites": {
+          "title": "Favoritos | Mirantes",
+          "name": "Favoritos"
+        },
+        "/headhunter": {
+          "name": "Headhunter",
+          "title": "Headhunter | Mirantes",
+          "sub-routes": {}
+        }
+      }
+    },
+    "/collaborators": {
+      "name": "Colaboradores",
+      "title": "Colaboradores | Mirantes",
+      "sub-routes": {
+        "/": {
+          "name": "Painel de colaboradores",
+          "title": "Painel de colaboradores | Mirantes",
+          "sub-routes": {}
+        },
+        "/organizational-structure": {
+          "name": "Estrutura organizacional",
+          "title": "Estrutura organizacional | Mirantes",
+          "sub-routes": {}
+        }
+      }
+    },
+    "/payroll": {
+      "name": "Payroll",
+      "title": "Payroll | Mirantes"
+    },
+    "/training": {
+      "name": "Treinamento",
+      "title": "Treinamento | Mirantes",
+      "sub-routes": {}
+    },
+    "/wages": {
+      "name": "RemunerAcções",
+      "title": "Remunerações | Mirantes",
+      "sub-routes": {}
+    },
+    "/billing": {
+      "name": "Planos",
+      "title": "Planos | Mirantes",
+      "sub-routes": {}
+    },
+    "/help": {
+      "name": "Ajuda",
+      "title": "Ajuda | Mirantes"
+    }
+  },
+  "user": {
+    "options": {
+      "mira": {
+        "label": "Meu perfil"
+      },
+      "languages": {
+        "label": "Idiomas",
+        "options": {
+          "pt": {
+            "label": "Português"
+          },
+          "en": {
+            "label": "Inglês"
+          },
+          "es": {
+            "label": "Espanhol"
+          },
+          "fr": {
+            "label": "Francês"
+          }
+        }
+      },
+      "settings": {
+        "label": "Configurações e privacidade"
+      },
+      "language": {
+        "label": "Idioma"
+      },
+      "help": {
+        "label": "Ajuda"
+      },
+      "logout": {
+        "label": "Fechar sessão"
+      },
+      "change-company": {
+        "label": "Mudar de empresa"
+      }
+    }
+  },
+  "errors": {
+    "404": {
+      "title": "¡Página Não Encontrada!",
+      "description": "Pedimos desculpas, mas não encontramos a página que você procura.",
+      "text-button": "Ir para Página Inicial"
+    }
+  }
+}

@@ -98,83 +98,13 @@
       "name": "Painel",
       "title": "Painel | Mirantes"
     },
-    "/profile": {
-      "name": "Perfil",
+    "/companies": {
+      "name": "Empresas",
       "title": "{{title}} | Mirantes"
     },
-    "/recruitment": {
-      "name": "Recrutamento",
-      "title": "Recrutamento | Mirantes",
-      "sub-routes": {
-        "/jobs": {
-          "name": "Vagas",
-          "title": "Vagas | Mirantes",
-          "sub-routes": {
-            "/job": {
-              "title": "{{title}} | Mirantes"
-            },
-            "/new": {
-              "title": "Nova Vaga{{title}} | Mirantes",
-              "sub-routes": {
-                "/settings": {
-                  "title": "Configurar Vaga{{title}} | Mirantes"
-                },
-                "/stages": {
-                  "title": "Gerenciar Etapas{{title}} | Mirantes"
-                }
-              }
-            }
-          }
-        },
-        "/favorites": {
-          "title": "Favoritos | Mirantes",
-          "name": "Favoritos"
-        },
-        "/headhunter": {
-          "name": "Headhunter",
-          "title": "Headhunter | Mirantes",
-          "sub-routes": {}
-        }
-      }
-    },
-    "/collaborators": {
-      "name": "Colaboradores",
-      "title": "Colaboradores | Mirantes",
-      "sub-routes": {
-        "/": {
-          "name": "Painel de colaboradores",
-          "title": "Painel de colaboradores | Mirantes",
-          "sub-routes": {}
-        },
-        "/organizational-structure": {
-          "name": "Estrutura organizacional",
-          "title": "Estrutura organizacional | Mirantes",
-          "sub-routes": {}
-        }
-      }
-    },
-    "/payroll": {
-      "name": "Payroll",
-      "title": "Payroll | Mirantes"
-    },
-    "/training": {
-      "name": "Treinamento",
-      "title": "Treinamento | Mirantes",
-      "sub-routes": {}
-    },
-    "/wages": {
-      "name": "RemunerAcções",
-      "title": "Remunerações | Mirantes",
-      "sub-routes": {}
-    },
-    "/billing": {
-      "name": "Planos",
-      "title": "Planos | Mirantes",
-      "sub-routes": {}
-    },
-    "/help": {
-      "name": "Ajuda",
-      "title": "Ajuda | Mirantes"
+    "/managers": {
+      "name": "Gestores",
+      "title": "Gestores | Mirantes"
     }
   },
   "user": {

@@ -38,7 +38,7 @@ export function DashboardCounterCard({
         </h2>
 
         <p
-          className={`font-medium transition-all text-nowrap text-body-lg uppercase ${
+          className={`font-medium transition-all !text-nowrap text-body-lg uppercase ${
             active && "text-white"
           } text-gray-shade7
         `}

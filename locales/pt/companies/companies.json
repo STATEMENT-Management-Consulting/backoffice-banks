@@ -5,6 +5,18 @@
 
     "companies-list": {
       "title": "Lista de empresas",
+
+      "filter": {
+        "search": "Pesquise por nome da empresa"
+      },
+
+      "order-by": {
+        "label": "Ordenar por",
+        "options": {
+          "descendent": "Decrescente"
+        }
+      },
+
       "table": {
         "thead": {
           "company-name": "Nome da empresa",
@@ -13,8 +25,54 @@
           "responsible": "Responsável",
           "total-to-pay": "Total por pagar",
           "last-sheet-state": "Estado da última folha",
-          "action": "Acção"
+          "action": "Acção",
+          "view-company": "Ver empresa"
         }
+      }
+    }
+  },
+
+  "company": {
+    "download-report": "Baixar relatório",
+    "filters": {
+      "search": "Pesquise por id da folha"
+    },
+
+    "tabs": {
+      "new-sheets": {
+        "title": "Novas folhas enviado ({{count}})"
+      },
+
+      "all-sheets": {
+        "title": "Todas as folhas"
+      },
+
+      "processed-sheets": {
+        "title": "Folhas processadas ({{count}})"
+      }
+    },
+
+    "overview": {
+      "phone": "Telefone",
+      "responsible": "Responsável",
+      "email": "E-mail",
+      "website": "Site",
+      "address": "Endereço",
+      "important-document": "Documento importante"
+    },
+
+    "table": {
+      "thead": {
+        "sheet-id": "ID da folha",
+        "entry-date": "Data de entrada",
+        "date-to-process": "Data de processamento",
+        "sheet-state": "Estado da folha",
+        "action": "Acção"
+      },
+
+      "actions": {
+        "downlaod-sheet": "Baixar folha salarial",
+        "process-sheet-now": "Processar folha agora"
       }
     }
   }

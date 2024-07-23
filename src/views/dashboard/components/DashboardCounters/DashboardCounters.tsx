@@ -5,15 +5,17 @@ import { FileTextIcon } from "@/assets/feather-icons/FileTextIcon";
 import { FileInfoIcon } from "@/assets/feather-icons/FileInfoIcon";
 import { FileCheckIcon } from "@/assets/feather-icons/FileCheckIcon";
 import { DateInput } from "@/components/Inputs/DateInput/DateInput";
+import { useDashboardContext } from "../../context/useDashboardContext";
 
 export function DashboardCounters() {
   const { translate } = useDashboardDictionary();
-  const [active, setActive] = useState("processed-sheets");
+  const { selectedDashboardSheet, setSelectedDashboardSheet } =
+    useDashboardContext();
 
   const counters = [
     {
       id: "processed-sheets",
-      label: translate("dashboard.counters.precessed-sheets"),
+      label: translate("dashboard.counters.processed-sheets"),
       value: 203,
       icon: FileTextIcon,
       active: true,
@@ -47,9 +49,13 @@ export function DashboardCounters() {
         {counters?.map((counter) => (
           <Fragment key={counter.id}>
             <DashboardCounterCard
-              setActive={() => setActive(counter?.id)}
+              setActive={() =>
+                setSelectedDashboardSheet?.(
+                  counter?.id as keyof typeof selectedDashboardSheet
+                )
+              }
               icon={counter?.icon}
-              active={counter?.id === active}
+              active={counter?.id === selectedDashboardSheet}
               label={counter?.label}
               value={counter?.value}
             />

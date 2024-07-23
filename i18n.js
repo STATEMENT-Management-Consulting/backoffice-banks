@@ -6,5 +6,6 @@ module.exports = {
   pages: {
     "*": globalNs,
     "/": ["dashboard/dashboard"],
+    "/companies": ["companies/companies"],
   },
 };

@@ -1,0 +1,44 @@
+{
+  "dashboard": {
+    "header": {
+      "title": "Bem-vindo de volta, ",
+      "download-reports": "Baixar relatório"
+    },
+
+    "title": "Visão geral",
+    "counters": {
+      "precessed-sheets": "Folhas processadas",
+      "pending-sheets": "Folhas pendentes",
+      "last-processions": "Últimos processamentos"
+    },
+
+    "processed-sheets": {
+      "title": "Folhas processadas",
+      "order-by": {
+        "label": "Ordenar por",
+        "options": {
+          "descendent": "Decrescente"
+        }
+      },
+
+      "table": {
+        "thead": {
+          "company-name": "Nome da empresa",
+          "sheet-id": "ID da folha",
+          "amount-to-pay": "Montante a pagar",
+          "entry-date": "Data de entrada",
+          "date-to-process": "Data de processamento",
+          "sheet-state": "Estado da folha",
+          "action": "Acção"
+        },
+
+        "sheet-states": {
+          "pending": "Pendente",
+          "processed": "Processado",
+          "rejected": "Rejeitado"
+        },
+        "download-sheet": "Baixar folha salarial"
+      }
+    }
+  }
+}

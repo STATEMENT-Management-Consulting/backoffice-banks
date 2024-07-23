@@ -1,9 +1,6 @@
 import { useLayoutDictionary } from "locales/t/layout";
 import { useRouter } from "next/router";
-import {
-  alwaysAccessibleRoutes,
-  conditionallyAccessibleRoutes,
-} from "../mainRoutes";
+import { alwaysAccessibleRoutes } from "../mainRoutes";
 import { RootLayoutRoute } from "./RootLayoutRoute";
 import { useRef } from "react";
 import { useOutsideClick } from "@/utilities/hooks/useOutsideClick";
@@ -20,10 +17,7 @@ export function SubMenuList({ close }: ISubMenuList) {
   const { locale } = useLocale();
   const ref = useRef<HTMLDivElement>(null);
   const { isAllowedCountry } = useRestrictByLocation();
-  const routes = [
-    ...alwaysAccessibleRoutes,
-    ...(isAllowedCountry ? conditionallyAccessibleRoutes : []),
-  ];
+  const routes = [...alwaysAccessibleRoutes];
 
   useOutsideClick(ref, close);
 

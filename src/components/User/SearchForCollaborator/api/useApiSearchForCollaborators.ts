@@ -1,7 +1,7 @@
+import { CollaboratorsModule } from "@/@types/Collaborators.types";
 import { companiesApi } from "@/api/mirantes/companiesApi";
 import { useDebounce } from "@/utilities/hooks/useDebounce";
 import { useGetCompanyId } from "@/utilities/session/getCompanyId";
-import { CollaboratorsModule } from "@/views/collaborators/utils/Collaborators.types";
 import { useQuery } from "@tanstack/react-query";
 import uniqBy from "lodash/uniqBy";
 

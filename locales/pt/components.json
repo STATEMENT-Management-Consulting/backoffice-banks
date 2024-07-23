@@ -1,4 +1,34 @@
 {
+  "Date": {
+    "months": {
+      "January": "Janeiro",
+      "February": "Fevereiro",
+      "March": "Março",
+      "April": "Abril",
+      "May": "Maio",
+      "June": "Junho",
+      "July": "Julho",
+      "August": "Agosto",
+      "September": "Setembro",
+      "October": "Outubro",
+      "November": "Novembro",
+      "December": "Dezembro"
+    },
+    "weeks": {
+      "sun": "Dom",
+      "mon": "Seg",
+      "tue": "Ter",
+      "wed": "Qua",
+      "thu": "Qui",
+      "fri": "Sex",
+      "sat": "Sab"
+    }
+  },
+  "Favorite": {
+    "favorite": "Favorito",
+    "favorites": "Favoritos",
+    "tool-tip": "Nível de possibilides para favoritar um profissional."
+  },
   "SeeMoreAndLessCard": {
     "more": "Ver mais",
     "less": "Ver Menos"
@@ -14,6 +44,24 @@
     "company-location": "Usar a localização da empresa",
     "pick-current-location": "Utilizar a minha localização atual",
     "placeholder": "Localização"
+  },
+  "SubsidiesInput": {
+    "labels": {
+      "manually": "Adiciona outro subsídio",
+      "remove": "Remover subsídio",
+      "save": "Salvar subsídio",
+      "main": "Nome do subsídio",
+      "country-name": "País",
+      "value": "Adicionar valor",
+      "commom-subsidy": "Subsídio comum",
+      "tax": "Taxa do {{name}}",
+      "tax-security": "Taxa de segurança social"
+    },
+    "errors": {
+      "no-country": "Escolha por favor um país",
+      "no-name": "Dê por favor um nome à este subsídio",
+      "actions.add": "Não foi possível adicionar este subsídio"
+    }
   },
   "SkillsInput": {
     "label": "Habilidades",
@@ -32,14 +80,7 @@
     "range-salary": "Intervalo Salarial",
     "not-defined": "Não definido",
     "label": "Salário",
-    "placeholder": "Selecione o tipo Salário",
-
-    "range": {
-      "label": "Intervalo Salarial",
-      "placeholder": "32,181.15 AOA - 100,000 AOA",
-      "required": "Este campo é obrigatório",
-      "hide-salary": "Ocultar o salário"
-    }
+    "placeholder": "Selecione o tipo Salário"
   },
   "Positions-Input": {
     "label": "Profissão",
@@ -71,38 +112,10 @@
     }
   },
   "SearchForCollaborator": {
-    "miss-banking": "Salário e IBAN em falta",
-    "miss-salary": "Salário em falta",
-    "miss-iban": "IBAN em falta",
-    "label": "Nome do colaborador",
-    "placeholder": "Digite o nome do colaborador",
-    "not-found": "Colaborador não encontrado.\nCertifique-se de que o utilizador existe  na mirantes",
-
-    "miss-banking-modal": {
-      "title": "Salário e IBAN em falta",
-      "label": "Para adição de salário e IBAN desse colaborador, será redirecionado para os Colaboradores, tem a certeza que deseja continuar?",
-      "options": {
-        "no": "Não, voltar",
-        "yes": "Sim, continuar"
-      }
-    },
-    "miss-iban-modal": {
-      "title": "IBAN em falta",
-      "label": "Tem a certeza que pretende selecionar este colaborador?",
-      "options": {
-        "no": "Não, voltar",
-        "yes": "Sim, continuar"
-      }
-    },
-    "miss-salary-modal": {
-      "title": "Salário em falta",
-      "label": "Para adição de salário desse colaborador, será redirecionado para os Colaboradores, tem a certeza que deseja continuar?",
-
-      "options": {
-        "no": "Não, voltar",
-        "yes": "Sim, continuar"
-      }
-    }
+    "label": "Nome do gestor",
+    "add-err-message": "Adicione por favor um(a) outro(a) gestor(a), porque este(a) gestor(a) já encontra-se adicionado(a)",
+    "placeholder": "Digite o nome do gestor",
+    "not-found": "Colaborador não encontrado.\nCertifique-se de que o utilizador existe  na mirantes"
   },
   "PaginationFooter": {
     "showing-elements": "Mostrando {{showing}} de {{total}}",
@@ -157,7 +170,7 @@
     "Qualifications": {
       "title": "QualificAcções",
       "description": "Para poder aplicar à vaga de {{title}}, você precisa  saber",
-      "improve": "Melhore o seu MIRA",
+      "improve": "Melhore o seu perfil",
       "and": "e"
     }
   },
@@ -169,7 +182,6 @@
   "SelectCandidaciesPageLengthButton": {
     "show": "Mostrar"
   },
-
   "Labels": {
     "view": "Ver"
   },
@@ -207,7 +219,10 @@
     "search-placeholder": "Pesquise aqui",
     "empty": "Sem opções",
     "not-found": "Não encontrado",
-    "clear": "Limpar"
+    "clear": "Limpar",
+    "add": {
+      "subside": "Adicionar subsídio"
+    }
   },
   "date-input": {
     "errors": {
@@ -312,67 +327,14 @@
   "SelectMultiOptions": {
     "apply": "Aplicar"
   },
-
-  "collaborators-input": {
-    "not-found": "Sem colaboradores disponìveis"
-  },
-  "months": {
-    "jan": "Janeiro",
-    "feb": "Fevereiro",
-    "mar": "Março",
-    "apr": "Abril",
-    "may": "Maio",
-    "jun": "Junho",
-    "jul": "Julho",
-    "aug": "Agosto",
-    "sep": "Setembro",
-    "oct": "Outubro",
-    "nov": "Novembro",
-    "dec": "Dezembro"
-  },
-  "intervalDate": {
-    "WeeklyPayroll": "Semanal",
-    "MonthlyPayroll": "Mensal",
-    "DailyPayroll": "Diário",
-    "sheet-week-values": "{{week}} semana, {{month}} {{year}}"
-  },
-  "week": {
-    "singular": "Semana",
-    "plural": "Semanas",
-    "short": "Sem"
-  },
-  "show-more": "Mostrar mais",
-  "open-payment-sheet": "Abrir folha de pagamento",
-
-  "otp-code-input": {},
   "Buttons": {
-    "filter": "Filtrar",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "jump": "Pular",
+    "previous": "Anterior",
     "back": "Voltar",
-    "onClose": "Fechar",
-    "keep-on": "Continuar",
-    "download-sheet": "Baixar folha salarial"
-  },
-  "Status": {
-    "label": "Estado",
-    "Processed": "Processado",
-    "NotProcessed": "Não processado",
-    "AwaitingApproval": "Aguardando aprovação",
-    "Processing": "Processando",
-    "no-data": "Não há dados"
-  },
-  "Total": {
-    "label": "",
-    "total_values": "Valores totais: ",
-    "total_sheet": "Total folhas"
-  },
-  "Bank": {
-    "label": "Banco"
-  },
-  "descriptions": {
-    "RB": "RB -- Rendimento Bruto",
-    "SI": "SI -- Subsídios Isentos",
-    "SB": "SB - Salário Base",
-    "IRT": "IRT - Imposto Sobre Rendimento de Trabalho",
-    "PF": "PF - Parcela Fixa "
+    "next": "Próximo",
+    "finish": "Terminar",
+    "continue": "Continuar"
   }
 }

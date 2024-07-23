@@ -1,7 +1,7 @@
 import { useOutsideClick } from "@/utilities/hooks/useOutsideClick";
 import { RefObject } from "react";
 import { SearchedCollaborator } from "./SearchedCollaborator";
-import { CollaboratorsModule } from "@/views/collaborators/utils/Collaborators.types";
+import { CollaboratorsModule } from "@/@types/Collaborators.types";
 
 interface ISearchForCollaboratorContainer {
   search: string;

@@ -16,7 +16,7 @@
           "descendent": "Decrescente"
         }
       },
-      
+
       "table": {
         "thead": {
           "company-name": "Nome da empresa",
@@ -28,6 +28,51 @@
           "action": "Acção",
           "view-company": "Ver empresa"
         }
+      }
+    }
+  },
+
+  "company": {
+    "download-report": "Baixar relatório",
+    "filters": {
+      "search": "Pesquise por id da folha"
+    },
+
+    "tabs": {
+      "new-sheets": {
+        "title": "Novas folhas enviado ({{count}})"
+      },
+
+      "all-sheets": {
+        "title": "Todas as folhas"
+      },
+
+      "processed-sheets": {
+        "title": "Folhas processadas ({{count}})"
+      }
+    },
+
+    "overview": {
+      "phone": "Telefone",
+      "responsible": "Responsável",
+      "email": "E-mail",
+      "website": "Site",
+      "address": "Endereço",
+      "important-document": "Documento importante"
+    },
+
+    "table": {
+      "thead": {
+        "sheet-id": "ID da folha",
+        "entry-date": "Data de entrada",
+        "date-to-process": "Data de processamento",
+        "sheet-state": "Estado da folha",
+        "action": "Acção"
+      },
+
+      "actions": {
+        "downlaod-sheet": "Baixar folha salarial",
+        "process-sheet-now": "Processar folha agora"
       }
     }
   }

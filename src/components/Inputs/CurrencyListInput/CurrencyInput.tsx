@@ -2,8 +2,8 @@ import { HTMLInputTypeAttribute } from "react";
 import { Currencies } from "./utils";
 import { sortBy } from "lodash";
 import { SelectInput } from "../SelectInput/SelectInput";
-import { useCountryDictionary } from "locales/t/country";
 import { cn } from "@/styles/utils";
+import { useCountryDictionary } from "locales/t/country";
 
 interface ICurrencyInput {
   onChange?: (value: string) => void;

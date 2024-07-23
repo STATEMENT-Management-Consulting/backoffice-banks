@@ -1,3 +1,4 @@
+import { CollaboratorsModule } from "@/@types/Collaborators.types";
 import { companiesApi } from "@/api/mirantes/companiesApi";
 import { isEmailValid } from "@/utilities/helpers/isEmailValid";
 import { objToQuery } from "@/utilities/helpers/objToQuery";
@@ -6,7 +7,6 @@ import {
   getCompanyId,
   useGetCompanyId,
 } from "@/utilities/session/getCompanyId";
-import { CollaboratorsModule } from "@/views/collaborators/utils/Collaborators.types";
 import { useQuery } from "@tanstack/react-query";
 import { uniqBy } from "lodash";
 import { useEffect, useState } from "react";

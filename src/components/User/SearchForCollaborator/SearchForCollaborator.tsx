@@ -3,11 +3,11 @@ import { BaseInput } from "@/components/Inputs/BaseInput/BaseInput";
 import { SearchForCollaboratorContainer } from "./SearchForCollaboratorContainer";
 import { useComponentsDictionary } from "locales/t/components";
 import { SearchIcon } from "@/assets/feather-icons/SearchIcon";
-import { CollaboratorsModule } from "@/views/collaborators/utils/Collaborators.types";
 import { Spinner } from "@/components/Spinner/Spinner";
 import { useOpen } from "@/utilities/hooks/useOpen";
 import { useApiSearchForCollaborators } from "./api/useApiSearchForCollaborators";
 import { SelectedUser } from "../SearchForUser/SelectedUser";
+import { CollaboratorsModule } from "@/@types/Collaborators.types";
 
 interface ISearchForCollaborator extends ComponentProps<typeof BaseInput> {
   collaborator?: CollaboratorsModule.Collaborator;

@@ -16,7 +16,7 @@ export function DashboardCounterCard({
   return (
     <div
       onClick={setActive}
-      className={`w-[17.5rem] cursor-pointer transition-all hover:border hover:border-primary hover:border-opacity-50 h-[13.625rem] shadow-lg shadow-[#26235110] rounded-xl stack items-start gap-y-8 p-6 ${
+      className={`w-[17.5rem] cursor-pointer transition-all hover:border hover:border-primary hover:border-opacity-50 h-[13.625rem] shadow-lg shadow-[#26235110] rounded-xl stack items-start gap-y-8 justify-between p-6 ${
         active ? "bg-primary" : "bg-white"
       }`}
     >
@@ -37,14 +37,14 @@ export function DashboardCounterCard({
           {value}
         </h2>
 
-        <h6
-          className={`font-medium transition-all  text-body-lg uppercase ${
+        <p
+          className={`font-medium transition-all text-nowrap text-body-lg uppercase ${
             active && "text-white"
           } text-gray-shade7
         `}
         >
           {label}
-        </h6>
+        </p>
       </div>
     </div>
   );

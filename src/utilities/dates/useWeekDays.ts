@@ -1,4 +1,3 @@
-import { WorkHours } from "@/views/profile/CompanyWorkSchedule/CompanyWorkScheduleView";
 import { useFormatDate } from "./useFormatDate";
 
 export type TWeekDay = {
@@ -17,7 +16,7 @@ export type TWeekDay = {
 
 export function useWeekDays(
   short?: boolean,
-  days?: WorkHours[],
+  days?: any[],
   hours?: number
 ) {
   const { formatDate } = useFormatDate();
@@ -83,7 +82,7 @@ export function useWeekDays(
   ];
 
   if (days) {
-    const weekDays = days.map((item: WorkHours) => {
+    const weekDays = days.map((item: any) => {
       const data = formatted?.find((d) => d?.id == item?.day);
       return {
         ...data,

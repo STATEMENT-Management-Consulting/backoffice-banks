@@ -1,0 +1,21 @@
+{
+  "companies": {
+    "title": "Empresas",
+    "label": "As empresas que processam pelo seu banco",
+
+    "companies-list": {
+      "title": "Lista de empresas",
+      "table": {
+        "thead": {
+          "company-name": "Nome da empresa",
+          "company-id": "ID da empresa",
+          "industry": "Industria",
+          "responsible": "Responsável",
+          "total-to-pay": "Total por pagar",
+          "last-sheet-state": "Estado da última folha",
+          "action": "Acção"
+        }
+      }
+    }
+  }
+}

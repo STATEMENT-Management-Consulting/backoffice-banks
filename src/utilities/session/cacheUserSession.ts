@@ -1,4 +1,4 @@
-import { TPostSignIn } from "@/views/auth/SignIn/api/useApiSignIn";
+import { TPostSignIn } from "../api/auth/useApiSignIn";
 import { AppKeys } from "../appKeys";
 import { saveCookie } from "./cookieUtils";
 

@@ -3,15 +3,17 @@ import { Avatar } from "@/components/Avatar/Avatar";
 import { Badge } from "@/components/Badge/Badge";
 import { Tr } from "@/components/Table/Tr";
 import { useCompaniesDictionary } from "locales/t/companies";
+import { useRouter } from "next/router";
 import { Fragment } from "react";
 
 export function CompaniesTableBody() {
   const data = Array(4).fill(0);
+  const { push } = useRouter();
   const { translate } = useCompaniesDictionary();
 
   return data.map((_, index) => (
     <Fragment key={index}>
-      <Tr>
+      <Tr onClick={() => push(`/companies/${index + 1}`)}>
         <td className="flex items-center gap-x-4">
           <Avatar className="w-6 h-6 rounded-full" name="Mirantes" />
           <div className="stack">
@@ -40,7 +42,9 @@ export function CompaniesTableBody() {
         </td>
         <td className="text-body-sm stack">
           <button className="flex items-center">
-            <div className="[&>svg_*]:fill-primary w-4 h-4 flex-center">{Eye}</div>{" "}
+            <div className="[&>svg_*]:fill-primary w-4 h-4 flex-center">
+              {Eye}
+            </div>{" "}
             <span className="text-primary text-body-sm">
               {translate("companies.companies-list.table.thead.view-company")}
             </span>

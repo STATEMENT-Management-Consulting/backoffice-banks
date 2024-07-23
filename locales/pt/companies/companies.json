@@ -5,6 +5,18 @@
 
     "companies-list": {
       "title": "Lista de empresas",
+
+      "filter": {
+        "search": "Pesquise por nome da empresa"
+      },
+
+      "order-by": {
+        "label": "Ordenar por",
+        "options": {
+          "descendent": "Decrescente"
+        }
+      },
+      
       "table": {
         "thead": {
           "company-name": "Nome da empresa",
@@ -13,7 +25,8 @@
           "responsible": "Responsável",
           "total-to-pay": "Total por pagar",
           "last-sheet-state": "Estado da última folha",
-          "action": "Acção"
+          "action": "Acção",
+          "view-company": "Ver empresa"
         }
       }
     }

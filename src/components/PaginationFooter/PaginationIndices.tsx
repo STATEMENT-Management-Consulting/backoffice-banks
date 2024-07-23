@@ -61,7 +61,7 @@ export function PaginationIndices({
         <button
           type="button"
           className={`min-h-[40px] min-w-[40px] px-[0.81rem] py-2 text-body-sm font-semibold ${
-            currentPage === 1 ? "button-secondary " : undefined
+            currentPage === 1 ? "!bg-[#F8F8F8] button-secondary " : undefined
           }`}
           onClick={() => handleOnChange(1)}
         >
@@ -79,7 +79,7 @@ export function PaginationIndices({
             type="button"
             key={page}
             className={`min-h-[40px] min-w-[40px] px-[0.81rem] py-2 text-body-sm font-semibold ${
-              currentPage === page ? "button-secondary " : ""
+              currentPage === page ? "!bg-[#F8F8F8] button-secondary " : ""
             }`}
             onClick={() => handleOnChange(page)}
           >
@@ -99,7 +99,9 @@ export function PaginationIndices({
           <button
             type="button"
             className={`min-h-[40px] min-w-[40px] px-[0.81rem] py-2 text-body-sm font-semibold ${
-              currentPage === numberOfPages ? "button-secondary " : ""
+              currentPage === numberOfPages
+                ? " !bg-[#F8F8F8] button-secondary "
+                : ""
             }`}
             onClick={() => handleOnChange(numberOfPages)}
           >

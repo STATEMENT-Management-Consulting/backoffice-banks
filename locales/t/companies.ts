@@ -5,7 +5,7 @@ import auth from "../pt/companies/companies.json";
 export type TranslationKeyPath = ExtractRecursiveKeys<typeof auth>;
 
 export function useCompaniesDictionary() {
-  const { t: translation } = useTranslations("companies/companies");
+const { t: translation } = useTranslations("companies/companies");
 
   const translate = (
     path: TranslationKeyPath,

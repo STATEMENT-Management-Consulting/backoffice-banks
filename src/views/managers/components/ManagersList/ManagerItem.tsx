@@ -10,7 +10,13 @@ type ManagerItemProps = {
   disabled?: boolean;
 };
 
-export function ManagerItem({ name, email, role, avatar, disabled }: ManagerItemProps) {
+export function ManagerItem({
+  name,
+  email,
+  role,
+  avatar,
+  disabled,
+}: ManagerItemProps) {
   return (
     <div className="w-full flex items-center justify-between">
       <div className="flex items-center gap-x-2">
@@ -24,7 +30,9 @@ export function ManagerItem({ name, email, role, avatar, disabled }: ManagerItem
 
       <div className="flex items-center gap-x-10">
         <span className="text-body-md font-medium">{role}</span>
-        <button className="button-empty rotate-90">{DotsVerticalIcon}</button>
+        <Dropdown horizontalDots className="!p-2 relative z-50">
+          <></>
+        </Dropdown>
       </div>
     </div>
   );

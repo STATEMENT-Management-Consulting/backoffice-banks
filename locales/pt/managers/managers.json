@@ -1,0 +1,23 @@
+{
+  "managers": {
+    "title": "Gestores",
+    "label": "Faça a gestão dos gestores permitindo que eles processem os salários.",
+
+    "invite-managers": {
+      "title": "Convide gestores para  sua equipa ",
+      "search": {
+        "label": "Pesquise pela mirantes",
+        "send-invite": "Enviar convite"
+      },
+
+      "invites": {
+        "pending-invites": "Convites pendentes"
+      }
+    },
+
+    "roles": {
+      "admin": "Administrador",
+      "manager": "Gestor"
+    }
+  }
+}

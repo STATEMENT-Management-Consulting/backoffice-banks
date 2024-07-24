@@ -1,0 +1,61 @@
+{
+  "process-salary": {
+    "title": "Processamento salarial",
+    "span": "Empresa: ",
+
+    "header": {
+      "state": "Estado: ",
+      "states": {
+        "pending": "Processamento salarial",
+        "processed": "Processado"
+      },
+      "download-sheet": "Baixar folha",
+      "process-now": "Processar agora"
+    },
+
+    "cards": {
+      "total-to-pay": {
+        "title": "Total de salários à pagar",
+        "payment-period": "Período de pagamento"
+      },
+
+      "processing-date": {
+        "title": "Data de processamento",
+        "processing-request": "Pedido de processamento",
+        "processing-approve": "Aprovação de processamento",
+        "waiting": "Aguardando..."
+      },
+
+      "total-to-paid": {
+        "title": "Total de pessoas a remunerar",
+        "people-to-paid": "Pessoas a remunerar"
+      }
+    },
+
+    "table": {
+      "thead": {
+        "collaborator-name": "Nome do colaborator",
+        "id": "ID",
+        "role": "Cargo",
+        "payment-iban": "IBAN do pagamento",
+        "irt": "IRT",
+        "social-security": "SS",
+        "ss-patronal-entity": "SS - Entidade Patronal",
+        "liquid-salary": "Salário liquido"
+      },
+
+      "footer": {
+        "total-values": "Valores totais: "
+      }
+    },
+
+    "confirm-modal": {
+      "title": "Processar agora?",
+      "label": "Ao confirmar o processamento, o estado mudará de “Esperando processamento” para “Processado”. Todos os usuários desta empresa  serão notificados. Deseja continuar?",
+      "options": {
+        "change": "Alterar",
+        "confirm": "Confirmar"
+      }
+    }
+  }
+}

@@ -45,6 +45,7 @@ export function PaginationElementsToShow({
       </p>
       <div className="">
         <SelectInput
+        itemClassName="!w-full"
           options={elements}
           wrapperClassName="max-w-[9rem]"
           className="h-8 !rounded-lg text-body-md"

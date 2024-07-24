@@ -25,7 +25,7 @@ export function CompanyView() {
 
         <CompanySheetsFilter />
 
-        <div className="w-full layout-max-width !px-0 relative gap-x-8 flex-1 flex">
+        <div className="w-full layout-max-width !px-0 !pt-0 relative gap-x-8 flex-1 flex">
           <CompanySheetsTable />
           <CompanyOverview />
         </div>

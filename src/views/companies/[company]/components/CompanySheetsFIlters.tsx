@@ -9,12 +9,13 @@ export function CompanySheetsFilter() {
   return (
     <div className="w-full !py-0 max-w-[80rem] !px-0 flex items-center gap-x-5">
       <SelectInput
-        wrapperClassName="max-w-[10rem] text-body-sm"
-        className="bg-white"
+        wrapperClassName="max-w-[10rem]"
+        className="bg-white !py-2 !rounded-md"
         options={[]}
       />
       <BaseInput
-        className="max-w-[283px] text-body-sm bg-white"
+        inputClassName="!placeholder:text-body-sm !text-body-sm"
+        className="max-w-[283px] !placeholder:text-body-sm !py-2 !text-body-sm bg-white"
         placeholder={translate("company.filters.search")}
         rightElement={SearchIcon}
       />

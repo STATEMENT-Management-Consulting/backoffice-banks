@@ -8,5 +8,6 @@ module.exports = {
     "/": ["dashboard/dashboard"],
     "/companies": ["companies/companies"],
     "/companies/[company]": ["companies/companies"],
+    "/managers": ["managers/managers"],
   },
 };

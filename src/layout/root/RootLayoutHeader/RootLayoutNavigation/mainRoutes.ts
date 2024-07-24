@@ -27,9 +27,7 @@ export const alwaysAccessibleRoutes: TMainRoutes[] = [
   },
   {
     href: "/managers",
-    redirect: "/recruitment/jobs",
     icon: BriefcaseSvg,
-    hasSubRoutes: true,
     breakpoint: "main",
   },
 ];

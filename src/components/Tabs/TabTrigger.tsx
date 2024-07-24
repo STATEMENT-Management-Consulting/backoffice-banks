@@ -13,7 +13,7 @@ export function TabTrigger({ children, className, onClick,  value }: ITabTrigger
     <TabsTrigger
       onClick={onClick}
       value={value}
-      className={`[&[data-state='active']]:text-primary font-normal [&[data-state='active']]:font-bold text-gray-shade8 border-b-2 border-transparent [&[data-state='active']]:border-b-primary first:min-w-max text-body-md px-[0.36rem] py-[0.58rem] rounded-none ${className}`}
+      className={`[&[data-state='active']]:text-primary font-medium [&[data-state='active']]:font-bold text-gray-shade8 border-b-2 border-transparent [&[data-state='active']]:border-b-primary first:min-w-max text-body-md px-[0.36rem] py-[0.58rem] rounded-none ${className}`}
     >
       {children}
     </TabsTrigger>

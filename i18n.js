@@ -7,5 +7,8 @@ module.exports = {
     "*": globalNs,
     "/": ["dashboard/dashboard"],
     "/companies": ["companies/companies"],
+    "/companies/[company]": ["companies/companies"],
+    "/companies/[company]/process-salary/[sheet]": ["companies/process-salary"],
+    "/managers": ["managers/managers"],
   },
 };

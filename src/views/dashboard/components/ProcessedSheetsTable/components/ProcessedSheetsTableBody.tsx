@@ -3,12 +3,20 @@ import { DownloadIcon } from "@/assets/feather-icons/DownloadIcon";
 import { Avatar } from "@/components/Avatar/Avatar";
 import { Badge } from "@/components/Badge/Badge";
 import { Tr } from "@/components/Table/Tr";
+import { useDashboardContext } from "@/views/dashboard/context/useDashboardContext";
 import { useDashboardDictionary } from "locales/t/dashboard";
 import { Fragment } from "react";
 
 export function ProcessedSheetsTableBody() {
   const { translate } = useDashboardDictionary();
-  const data = Array(4).fill(0);
+  const { selectedDashboardSheet } = useDashboardContext();
+
+  const data =
+    selectedDashboardSheet === "processed-sheets"
+      ? Array(6).fill(0)
+      : selectedDashboardSheet === "pending-sheets"
+      ? Array(2).fill(0)
+      : Array(4).fill(0);
 
   return data.map((_, index) => (
     <Fragment key={index}>

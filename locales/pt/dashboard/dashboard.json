@@ -7,7 +7,7 @@
 
     "title": "Visão geral",
     "counters": {
-      "precessed-sheets": "Folhas processadas",
+      "processed-sheets": "Folhas processadas",
       "pending-sheets": "Folhas pendentes",
       "last-processions": "Últimos processamentos"
     },

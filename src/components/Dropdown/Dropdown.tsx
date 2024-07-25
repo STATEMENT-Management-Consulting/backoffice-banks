@@ -34,7 +34,11 @@ export function Dropdown({
           aria-label={ariaLabel}
         >
           {trigger ??
-            (horizontalDots ? <BiDotsHorizontal /> : DotsVerticalIcon)}
+            (horizontalDots ? (
+              <div className="rotate-90">{DotsVerticalIcon}</div>
+            ) : (
+              DotsVerticalIcon
+            ))}
         </button>
       </DropdownMenu.Trigger>
 

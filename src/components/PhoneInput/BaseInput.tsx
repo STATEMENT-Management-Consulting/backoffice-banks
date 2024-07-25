@@ -38,12 +38,14 @@ export interface IBaseInput {
   onBlur?: FocusEventHandler<HTMLInputElement>;
   onKeyDown?: KeyboardEventHandler<HTMLInputElement>;
   readonly?: boolean;
+  inputClassName?: string;
   onClick?: () => void;
 }
 
 export const BaseInput = forwardRef<HTMLInputElement | null, IBaseInput>(
   (
     {
+      inputClassName,
       maxLength,
       onChange,
       type = "text",
@@ -120,7 +122,7 @@ export const BaseInput = forwardRef<HTMLInputElement | null, IBaseInput>(
             onKeyPress={onKeyPress}
             onKeyDown={onKeyDown}
             className={cn(
-              `outline-none w-full !text-body-md md:!text-body-lg placeholder-gray-shade7 text-dark-blue-shade2 bg-transparent flex-grow`,
+              `outline-none w-full !text-body-md md:!text-body-lg placeholder-gray-shade7 text-dark-blue-shade2 bg-transparent flex-grow ${inputClassName}`,
               disabled && "opacity-[.3]"
             )}
             min={min}
